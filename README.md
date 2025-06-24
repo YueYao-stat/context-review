@@ -16,14 +16,14 @@ This manuscript is created automatically from the content in [content](https://g
 ---
 
 ## Why are we writing this?
-As statistical modeling evolves, we are witnessing two complementary approaches to integrating context. 
+As statistical modeling evolves, we are witnessing two complementary approaches to integrating context.
 Traditional statistical models are being expanded to allow explicit parameter adjustments based on context, making their
-adaptations transparent and interpretable. 
-Meanwhile, large foundation models are being built that how to implicitly adapt to context, enabling impressive 
-performance in a wide range of tasks including in-context learning. 
-This review seeks to unite these two perspectives, combining the explicit adaptability of statistical models with the 
-powerful, implicit adjustments of foundation models. 
-By bringing these approaches together, we aim to provide a comprehensive overview of current progress, challenges, 
+adaptations transparent and interpretable.
+Meanwhile, large foundation models are being built that how to implicitly adapt to context, enabling impressive
+performance in a wide range of tasks including in-context learning.
+This review seeks to unite these two perspectives, combining the explicit adaptability of statistical models with the
+powerful, implicit adjustments of foundation models.
+By bringing these approaches together, we aim to provide a comprehensive overview of current progress, challenges,
 and opportunities in context-adaptive inference.
 
 
@@ -42,19 +42,19 @@ and opportunities in context-adaptive inference.
 ## Table of Contents
 1. [Abstract](./content/01.abstract.md)
 2. [Introduction and Definitions](./content/02.introduction.md)
-3. [Theoretical Foundations and Advances in Varying-Coefficient Models](./content/03.vc.md) 
-4. [Context-Adaptive Interpretations of Context-Invariant Functions](./content/04.interpretations.md) 
-5. [Opportunities for Foundation Models](./content/05.foundation.md) 
-6. [Applications, Case Studies, and Evaluations](./content/06.applications.md) 
-7. [Technological and Software Tools](./content/07.tools.md) 
-8. [Future Trends](./content/08.future.md) 
-9. [Open Problems](./content/09.problems.md) 
+3. [Theoretical Foundations and Advances in Varying-Coefficient Models](./content/03.vc.md)
+4. [Context-Adaptive Interpretations of Context-Invariant Functions](./content/04.interpretations.md)
+5. [Opportunities for Foundation Models](./content/05.foundation.md)
+6. [Applications, Case Studies, and Evaluations](./content/06.applications.md)
+7. [Technological and Software Tools](./content/07.tools.md)
+8. [Future Trends](./content/08.future.md)
+9. [Open Problems](./content/09.problems.md)
 10. [Conclusions](./content/10.conclusions.md)
 
 ## How can you contribute?
 We welcome contributions from the community. Please see our [contribution guidelines](CONTRIBUTING.md) for more information.
 
---- 
+---
 
 <details>
   <summary><h2>Manubot</h2></summary>
@@ -121,11 +121,11 @@ Whenever a pull request is opened, CI (continuous integration) will test whether
 The build process aims to detect common errors, such as invalid citations.
 If your pull request build fails, see the CI logs for the cause of failure and revise your pull request accordingly.
 
-When a commit to the `main` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/LengerichLab/context-review/tree/gh-pages) and [`output`](https://github.com/LengerichLab/context-review/tree/output) branches.
+When a commit to the `main` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/AdaptInfer/context-review/tree/gh-pages) and [`output`](https://github.com/AdaptInfer/context-review/tree/output) branches.
 The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
 
-+ **HTML manuscript** at https://LengerichLab.github.io/context-review/
-+ **PDF manuscript** at https://LengerichLab.github.io/context-review/manuscript.pdf
++ **HTML manuscript** at https://adaptinfer.org/context-review/
++ **PDF manuscript** at https://adaptinfer.org/context-review/manuscript.pdf
 
 For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml).
 
