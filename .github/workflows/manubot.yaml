@@ -47,7 +47,7 @@ jobs:
       SPELLCHECK: true
     defaults:
       run:
-        shell: bash --login {0}
+        shell: micromamba-shell {0}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -78,15 +78,12 @@ jobs:
           key: ci-cache-${{ github.ref }}
           restore-keys: |
             ci-cache-${{ env.DEFAULT_BRANCH_REF }}
-      - name: Install Environment
-        uses: conda-incubator/setup-miniconda@v3
+      - name: Setup Micromamba
+        uses: mamba-org/setup-micromamba@v1
         with:
-          activate-environment: manubot
           environment-file: build/environment.yml
-          auto-activate-base: false
-          miniforge-variant: Mambaforge
-          miniforge-version: 'latest'
-          use-mamba: true
+          environment-name: manubot
+          cache-environment: true
       - name: Install Spellcheck
         if: env.SPELLCHECK == 'true'
         run: bash ci/install-spellcheck.sh
