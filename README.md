@@ -1,17 +1,17 @@
 # Context-Adaptive Statistical Inference: Recent Progress, Open Problems, and Opportunities for Foundation Models
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://LengerichLab.github.io/context-review/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://LengerichLab.github.io/context-review/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/LengerichLab/context-review/workflows/Manubot/badge.svg)](https://github.com/LengerichLab/context-review/actions)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://adaptinfer.org/context-review/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https:/adaptinfer.org/context-review/manuscript.pdf)
+[![GitHub Actions Status](https://github.com/AdaptInfer/context-review/workflows/Manubot/badge.svg)](https://github.com/AdaptInfer/context-review/actions)
 
 
 This is an open, collaborative review paper on context-adaptive statistical methods. We look at recent progress, identify open problems, and find practical opportunities for applying these methods. We are particularly excited by the opportunities for foundation models to provide context for statistical inference.
 
 
-This manuscript is created automatically from the content in [content](https://github.com/LengerichLab/context-review/tree/main/content) using Manubot. Please [contribute](CONTRIBUTING.md)! Make a PR or file an issue, and see below for more information about Manubot. Live update versions of the manuscript are available at:
+This manuscript is created automatically from the content in [content](https://github.com/AdaptInfer/context-review/tree/main/content) using Manubot. Please [contribute](CONTRIBUTING.md)! Make a PR or file an issue, and see below for more information about Manubot. Live update versions of the manuscript are available at:
 
-+ **HTML manuscript** at https://LengerichLab.github.io/context-review/
-+ **PDF manuscript** at https://LengerichLab.github.io/context-review/manuscript.pdf
++ **HTML manuscript** at https://adaptinfer.org/context-review/
++ **PDF manuscript** at https://adaptinfer.org/context-review/manuscript.pdf
 
 ---
 
