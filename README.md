@@ -43,6 +43,7 @@ and opportunities in context-adaptive inference.
 1. [Abstract](./content/01.abstract.md)
 2. [Introduction](./content/02.introduction.md)
 3. [From Population Assumptions to Context-Adaptive Inference](./content/03.overview.md)
+4. [Principles of Context-Adaptive Inference](./content/04.principles.md)
 4. [Explicit Adaptivity: Structured Estimation of $f(c)$](content/05.explicit.md)
 5. [Implicit Adaptivity: Emergent Contextualization within Complex Models](content/06.implicit.md)
 6. [Making Implicit Adaptivity Explicit: Local Models, Surrogates and Post Hoc Approximations](content/07.interpretations.md)
