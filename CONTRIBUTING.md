@@ -31,4 +31,4 @@ If there is any unaddressed criticism or disapproval, a repository maintainer wi
 
 ## Manubot
 
-Please see [`USAGE.md`](USAGE.md) for information on how to use the Manubot for writing the manuscript. Contributions to the main [content](https://github.com/LengerichLab/context-review/tree/main/content) directory will be automatically compiled into the live [HTML](https://LengerichLab.github.io/context-review/) and [PDF](https://LengerichLab.github.io/context-review/manuscript.pdf) versions of the manuscript.
+Please see [`USAGE.md`](USAGE.md) for information on how to use the Manubot for writing the manuscript. Contributions to the main [content](https://github.com/AdaptInfer/context-review/tree/main/content) directory will be automatically compiled into the live [HTML](https://adaptinfer.org/context-review/) and [PDF](https://adaptinfer.org/context-review/manuscript.pdf) versions of the manuscript.
