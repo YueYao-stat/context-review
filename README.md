@@ -41,15 +41,16 @@ and opportunities in context-adaptive inference.
 
 ## Table of Contents
 1. [Abstract](./content/01.abstract.md)
-2. [Introduction and Definitions](./content/02.introduction.md)
-3. [Theoretical Foundations and Advances in Varying-Coefficient Models](./content/03.vc.md)
-4. [Context-Adaptive Interpretations of Context-Invariant Functions](./content/04.interpretations.md)
-5. [Opportunities for Foundation Models](./content/05.foundation.md)
-6. [Applications, Case Studies, and Evaluations](./content/06.applications.md)
-7. [Technological and Software Tools](./content/07.tools.md)
-8. [Future Trends](./content/08.future.md)
-9. [Open Problems](./content/09.problems.md)
-10. [Conclusions](./content/10.conclusions.md)
+2. [Introduction](./content/02.introduction.md)
+3. [From Population Assumptions to Context-Adaptive Inference](./content/03.overview.md)
+4. [Principles of Context-Adaptive Inference](./content/04.principles.md)
+4. [Explicit Adaptivity: Structured Estimation of $f(c)$](content/05.explicit.md)
+5. [Implicit Adaptivity: Emergent Contextualization within Complex Models](content/06.implicit.md)
+6. [Making Implicit Adaptivity Explicit: Local Models, Surrogates and Post Hoc Approximations](content/07.interpretations.md)
+7. [Applications, Case Studies, and Software Tools](content/08.applications_tools.md)
+8. [Future Trends and Opportunities with Foundation Models](content/09.future_trends.md)
+9. [Open Problems](content/10.open_problems.md)
+10. [Conclusions](content/11.conclusion.md)
 
 ## How can you contribute?
 We welcome contributions from the community. Please see our [contribution guidelines](CONTRIBUTING.md) for more information.
