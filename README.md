@@ -47,10 +47,11 @@ and opportunities in context-adaptive inference.
 4. [Explicit Adaptivity: Structured Estimation of $f(c)$](content/05.explicit.md)
 5. [Implicit Adaptivity: Emergent Contextualization within Complex Models](content/06.implicit.md)
 6. [Making Implicit Adaptivity Explicit: Local Models, Surrogates and Post Hoc Approximations](content/07.interpretations.md)
-7. [Applications, Case Studies, and Software Tools](content/08.applications_tools.md)
-8. [Future Trends and Opportunities with Foundation Models](content/09.future_trends.md)
-9. [Open Problems](content/10.open_problems.md)
-10. [Conclusions](content/11.conclusion.md)
+7. [Context-Invariant Training: A View from the Converse](content/08.invariant.md)
+8. [Applications, Case Studies, and Software Tools](content/09.applications_tools.md)
+8. [Future Trends and Opportunities with Foundation Models](content/10.future_trends.md)
+9. [Open Problems](content/11.open_problems.md)
+10. [Conclusions](content/12.conclusion.md)
 
 ## How can you contribute?
 We welcome contributions from the community. Please see our [contribution guidelines](CONTRIBUTING.md) for more information.
