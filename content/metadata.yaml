@@ -31,3 +31,14 @@ authors:
       - Computational Biology Department, Carnegie Mellon University
     funders:
         -
+  - github: YueYao-stat
+    name: Yue Yao
+    initials: YY
+    orcid: 0009-0000-8195-3943
+    mastodon:
+    mastodon-server:
+    email: yao255@wisc.edu
+    affiliations:
+      - Department of Statistics, University of Wisconsin-Madison
+    funders:
+        -
