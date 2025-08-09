@@ -156,5 +156,299 @@
     "archive": "arXiv",
     "eprint": "2003.06416",
     "note": "stat.ML"
+  },
+  {
+    "id": "ruder2017overview",
+    "type": "manuscript",
+    "author": [
+      {"family": "Ruder", "given": "Sebastian"}
+    ],
+    "title": "An Overview of Multi-Task Learning in Deep Neural Networks",
+    "year": 2017,
+    "archive": "arXiv",
+    "eprint": "1706.05098"
+  },
+  {
+    "id": "vaswani2017attention",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Vaswani", "given": "Ashish"},
+      {"family": "Shazeer", "given": "Noam"},
+      {"family": "Parmar", "given": "Niki"},
+      {"family": "Uszkoreit", "given": "Jakob"},
+      {"family": "Jones", "given": "Llion"},
+      {"family": "Gomez", "given": "Aidan N."},
+      {"family": "Kaiser", "given": "Lukasz"},
+      {"family": "Polosukhin", "given": "Illia"}
+    ],
+    "title": "Attention Is All You Need",
+    "container-title": "Advances in Neural Information Processing Systems 30",
+    "year": 2017,
+    "page": "5998--6008"
+  },
+  {
+    "id": "kingma2013auto",
+    "type": "manuscript",
+    "author": [
+      {"family": "Kingma", "given": "Diederik P."},
+      {"family": "Welling", "given": "Max"}
+    ],
+    "title": "Auto-Encoding Variational Bayes",
+    "year": 2013,
+    "archive": "arXiv",
+    "eprint": "1312.6114"
+  },
+  {
+    "id": "finn2017model",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Finn", "given": "Chelsea"},
+      {"family": "Abbeel", "given": "Pieter"},
+      {"family": "Levine", "given": "Sergey"}
+    ],
+    "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+    "container-title": "Proceedings of the 34th International Conference on Machine Learning",
+    "year": 2017,
+    "page": "1126--1135"
+  },
+  {
+    "id": "hospedales2021meta",
+    "type": "article-journal",
+    "author": [
+      {"family": "Hospedales", "given": "Timothy"},
+      {"family": "Antoniou", "given": "Antreas"},
+      {"family": "Micaelli", "given": "Paul"},
+      {"family": "Storkey", "given": "Amos"}
+    ],
+    "title": "Meta-Learning in Neural Networks: A Survey",
+    "container-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": 2021,
+    "volume": "44",
+    "issue": "9",
+    "page": "5149--5169",
+    "DOI": "10.1109/TPAMI.2021.3079209"
+  },
+  {
+    "id": "brown2020language",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Brown", "given": "Tom B."},
+      {"family": "Mann", "given": "Benjamin"},
+      {"family": "Ryder", "given": "Nick"},
+      {"family": "Subbiah", "given": "Melanie"},
+      {"family": "Kaplan", "given": "Jared"},
+      {"family": "Dhariwal", "given": "Prafulla"},
+      {"family": "Neelakantan", "given": "Arvind"},
+      {"family": "Shyam", "given": "Pranav"},
+      {"family": "Sastry", "given": "Girish"},
+      {"family": "Askell", "given": "Amanda"},
+      {"family": "Agarwal", "given": "Sandhini"},
+      {"family": "Herbert-Voss", "given": "Ariel"},
+      {"family": "Krueger", "given": "Gretchen"},
+      {"family": "Henighan", "given": "Tom"},
+      {"family": "Child", "given": "Rewon"},
+      {"family": "Ramesh", "given": "Aditya"},
+      {"family": "Ziegler", "given": "Daniel M."},
+      {"family": "Wu", "given": "Jeffrey"},
+      {"family": "Winter", "given": "Clemens"},
+      {"family": "Hesse", "given": "Christopher"},
+      {"family": "Chen", "given": "Mark"},
+      {"family": "Sigler", "given": "Eric"},
+      {"family": "Litwin", "given": "Mateusz"},
+      {"family": "Gray", "given": "Scott"},
+      {"family": "Chess", "given": "Benjamin"},
+      {"family": "Clark", "given": "Jack"},
+      {"family": "Berner", "given": "Christopher"},
+      {"family": "McCandlish", "given": "Sam"},
+      {"family": "Radford", "given": "Alec"},
+      {"family": "Sutskever", "given": "Ilya"},
+      {"family": "Amodei", "given": "Dario"}
+    ],
+    "title": "Language Models are Few-Shot Learners",
+    "container-title": "Advances in Neural Information Processing Systems 33",
+    "year": 2020,
+    "page": "1877--1901"
+  },
+  {
+    "id": "dong2022survey",
+    "type": "manuscript",
+    "author": [
+      {"family": "Dong", "given": "Qingxiu"},
+      {"family": "Li", "given": "Lei"},
+      {"family": "Dai", "given": "Damai"},
+      {"family": "Zheng", "given": "Ce"},
+      {"family": "Wu", "given": "Zhiyong"},
+      {"family": "Chang", "given": "Baobao"},
+      {"family": "Sun", "given": "Xu"},
+      {"family": "Xu", "given": "Jingjing"},
+      {"family": "Huang", "given": "Fei"},
+      {"family": "Li", "given": "Xin"}
+    ],
+    "title": "A Survey for In-context Learning",
+    "year": 2022,
+    "archive": "arXiv",
+    "eprint": "2301.00234"
+  },
+  {
+    "id": "wei2022emergent",
+    "type": "article-journal",
+    "author": [
+      {"family": "Wei", "given": "Jason"},
+      {"family": "Tay", "given": "Yi"},
+      {"family": "Bommasani", "given": "Rishi"},
+      {"family": "Raffel", "given": "Colin"},
+      {"family": "Zoph", "given": "Barret"},
+      {"family": "Borgeaud", "given": "Sebastian"},
+      {"family": "Yogatama", "given": "Dani"},
+      {"family": "Bosma", "given": "Maarten"},
+      {"family": "Zhou", "given": "Denny"},
+      {"family": "Metzler", "given": "Donald"},
+      {"family": "Chi", "given": "Ed H."},
+      {"family": "Hashimoto", "given": "Tatsunori"},
+      {"family": "Vinyals", "given": "Oriol"},
+      {"family": "Liang", "given": "Percy"},
+      {"family": "Dean", "given": "Jeff"},
+      {"family": "Fedus", "given": "William"}
+    ],
+    "title": "Emergent Abilities of Large Language Models",
+    "container-title": "Transactions on Machine Learning Research",
+    "year": 2022
+  },
+  {
+    "id": "min2022rethinking",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Min", "given": "Sewon"},
+      {"family": "Lyu", "given": "Xinxi"},
+      {"family": "Holtzman", "given": "Ari"},
+      {"family": "Artetxe", "given": "Mikel"},
+      {"family": "Lewis", "given": "Mike"},
+      {"family": "Hajishirzi", "given": "Hannaneh"},
+      {"family": "Zettlemoyer", "given": "Luke"}
+    ],
+    "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+    "container-title": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2022,
+    "page": "11048--11064"
+  },
+  {
+    "id": "dai2022can",
+    "type": "manuscript",
+    "author": [
+      {"family": "Dai", "given": "Damai"},
+      {"family": "Sun", "given": "Yutao"},
+      {"family": "Dong", "given": "Li"},
+      {"family": "Hao", "given": "Yaru"},
+      {"family": "Ma", "given": "Shuming"},
+      {"family": "Sui", "given": "Zhifang"},
+      {"family": "Wei", "given": "Furu"}
+    ],
+    "title": "Why Can GPT Learn In-Context? Language Models as Meta-Learners",
+    "year": 2022,
+    "archive": "arXiv",
+    "eprint": "2212.10559"
+  },
+  {
+    "id": "von2023transformers",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Ataee Tarzanagh", "given": "Davoud"},
+      {"family": "Li", "given": "Yingcong"},
+      {"family": "Thrampoulidis", "given": "Christos"},
+      {"family": "Oymak", "given": "Samet"}
+    ],
+    "title": "Transformers as Support Vector Machines",
+    "container-title": "Proceedings of the 40th International Conference on Machine Learning",
+    "year": 2023,
+    "page": "35017--35037"
+  },
+  {
+    "id": "xie2021an",
+    "type": "manuscript",
+    "author": [
+      {"family": "Xie", "given": "Sang Michael"},
+      {"family": "Raghunathan", "given": "Aditi"},
+      {"family": "Liang", "given": "Percy"},
+      {"family": "Ma", "given": "Tengyu"}
+    ],
+    "title": "An Explanation of In-context Learning as Implicit Bayesian Inference",
+    "year": 2021,
+    "archive": "arXiv",
+    "eprint": "2111.02080"
+  },
+  {
+    "id": "olsson2022incontext",
+    "type": "manuscript",
+    "author": [
+      {"family": "Olsson", "given": "Catherine"}
+    ],
+    "title": "In-context Learning and Induction Heads",
+    "year": 2022,
+    "note": "and others",
+    "archive": "arXiv",
+    "eprint": "2209.11895"
+  },
+  {
+    "id": "bommasani2021opportunities",
+    "type": "manuscript",
+    "author": [
+      {"family": "Bommasani", "given": "Rishi"}
+    ],
+    "title": "On the Opportunities and Risks of Foundation Models",
+    "year": 2021,
+    "note": "and others",
+    "archive": "arXiv",
+    "eprint": "2108.07258"
+  },
+  {
+    "id": "wei2022chain",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Wei", "given": "Jason"},
+      {"family": "Wang", "given": "Xuezhi"},
+      {"family": "Schuurmans", "given": "Dale"},
+      {"family": "Bosma", "given": "Maarten"},
+      {"family": "Xia", "given": "Fei"},
+      {"family": "Chi", "given": "Ed"},
+      {"family": "Le", "given": "Quoc V."},
+      {"family": "Zhou", "given": "Denny"}
+    ],
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "container-title": "Advances in Neural Information Processing Systems 35",
+    "year": 2022,
+    "page": "6021--6035"
+  },
+  {
+    "id": "linardatos2020explainable",
+    "type": "article-journal",
+    "author": [
+      {"family": "Linardatos", "given": "Pantelis"},
+      {"family": "Papastefanopoulos", "given": "Vasilis"},
+      {"family": "Kotsiantis", "given": "Sotiris"}
+    ],
+    "title": "Explainable AI: A Review of Machine Learning Interpretability Methods",
+    "container-title": "Entropy",
+    "year": 2021,
+    "volume": "23",
+    "issue": "1",
+    "page": "18",
+    "DOI": "10.3390/e23010018"
+  },
+  {
+    "id": "petroni2019language",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Petroni", "given": "Fabio"},
+      {"family": "Rocktäschel", "given": "Tim"},
+      {"family": "Riedel", "given": "Sebastian"},
+      {"family": "Lewis", "given": "Patrick S. H."},
+      {"family": "Bakhtin", "given": "Anton"},
+      {"family": "Wu", "given": "Yuxiang"},
+      {"family": "Miller", "given": "Alexander H."}
+    ],
+    "title": "Language Models as Knowledge Bases?",
+    "container-title": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing",
+    "year": 2019,
+    "page": "2463--2473"
   }
 ]
