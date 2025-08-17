@@ -42,3 +42,15 @@ authors:
       - Department of Statistics, University of Wisconsin-Madison
     funders:
         -
+  - github: NoakLiu
+    name: Dong Liu
+    initials: DL
+    orcid: 0009-0009-6815-8297
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: dong.liu.dl2367@yale.edu
+    affiliations:
+      - Department of Computer Science, Yale University
+    funders:
+        -
