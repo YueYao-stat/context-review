@@ -600,6 +600,308 @@
     "issued": { "date-parts": [[1991]] },
     "event": "Advances in Neural Information Processing Systems (NIPS 1991)",
     "URL": "https://proceedings.neurips.cc/paper/1991/file/ff4d5fbbafdf976cfdc032e3bde78de5-Abstract.html"
+  }, 
+  {
+    "id": "bommasani2021opportunities",
+    "type": "article-journal",
+    "author": [
+      {"family": "Bommasani", "given": "Rishi"},
+      {"family": "Hudson", "given": "Drew A."},
+      {"family": "Adeli", "given": "Ehsan"},
+      {"family": "Altman", "given": "Russ"},
+      {"family": "Arora", "given": "Simran"}
+    ],
+    "title": "On the Opportunities and Risks of Foundation Models",
+    "container-title": "arXiv preprint arXiv:2108.07258",
+    "year": 2021,
+    "note": "and other authors"
+  },
+  {
+    "id": "RibeiroSinghGuestrin2016",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Ribeiro", "given": "Marco Tulio"},
+      {"family": "Singh", "given": "Sameer"},
+      {"family": "Guestrin", "given": "Carlos"}
+    ],
+    "title": "“Why Should I Trust You?”: Explaining the Predictions of Any Classifier",
+    "container-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "year": 2016,
+    "pages": "1135-1144",
+    "publisher": "ACM",
+    "DOI": "10.1145/2939672.2939778"
+  },
+  {
+    "id": "LundbergLee2017",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Lundberg", "given": "Scott M."},
+      {"family": "Lee", "given": "Su-In"}
+    ],
+    "title": "A Unified Approach to Interpreting Model Predictions",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "year": 2017,
+    "pages": "4765-4774"
+  },
+  {
+    "id": "SundararajanTalyYan2017",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Sundararajan", "given": "Mukund"},
+      {"family": "Taly", "given": "Ankur"},
+      {"family": "Yan", "given": "Qiqi"}
+    ],
+    "title": "Axiomatic Attribution for Deep Networks",
+    "container-title": "Proceedings of the 34th International Conference on Machine Learning",
+    "year": 2017,
+    "publisher": "PMLR",
+    "volume": "70",
+    "pages": "3319-3328"
+  },
+  {
+    "id": "ShrikumarGreensideKundaje2017",
+    "type": "manuscript",
+    "author": [
+      {"family": "Shrikumar", "given": "Avanti"},
+      {"family": "Greenside", "given": "Peyton"},
+      {"family": "Kundaje", "given": "Anshul"}
+    ],
+    "title": "Learning Important Features Through Propagating Activation Differences",
+    "year": 2017,
+    "archive": "arXiv",
+    "eprint": "1704.02685"
+  },
+  {
+    "id": "ChenLiTaoBarnettSuRudin2019",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Chen", "given": "Chaofan"},
+      {"family": "Li", "given": "Oscar"},
+      {"family": "Tao", "given": "Daniel"},
+      {"family": "Barnett", "given": "Alina"},
+      {"family": "Su", "given": "Jonathan"},
+      {"family": "Rudin", "given": "Cynthia"}
+    ],
+    "title": "This Looks Like That: Deep Learning for Interpretable Image Recognition",
+    "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "year": 2019,
+    "pages": "8930-8939",
+    "DOI": "10.1109/CVPR.2019.00914"
+  },
+  {
+    "id": "PapernotMcDaniel2018",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Papernot", "given": "Nicolas"},
+      {"family": "McDaniel", "given": "Patrick"},
+      {"family": "Goodfellow", "given": "Ian"}
+    ],
+    "title": "Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning",
+    "container-title": "27th USENIX Security Symposium (USENIX Security 18)",
+    "year": 2018,
+    "pages": "137-154"
+  },
+  {
+    "id": "KohLiang2017",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Koh", "given": "Pang Wei"},
+      {"family": "Liang", "given": "Percy"}
+    ],
+    "title": "Understanding Black-box Predictions via Influence Functions",
+    "container-title": "Proceedings of the 34th International Conference on Machine Learning",
+    "year": 2017,
+    "publisher": "PMLR",
+    "volume": "70",
+    "pages": "1885-1894"
+  },
+  {
+    "id": "CremerMorrisDuvenaud2018",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Cremer", "given": "Chris"},
+      {"family": "Morris", "given": "Quaid"},
+      {"family": "Duvenaud", "given": "David"}
+    ],
+    "title": "Inference Suboptimality in Variational Autoencoders",
+    "container-title": "Proceedings of the 35th International Conference on Machine Learning",
+    "year": 2018,
+    "publisher": "PMLR",
+    "volume": "80",
+    "pages": "1078-1086"
+  },
+  {
+    "id": "HigginsEtAl2017BetaVAE",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Higgins", "given": "Irina"},
+      {"family": "Matthey", "given": "Loic"},
+      {"family": "Pal", "given": "Arka"},
+      {"family": "Burgess", "given": "Christopher"},
+      {"family": "Glorot", "given": "Xavier"},
+      {"family": "Botvinick", "given": "Matthew"},
+      {"family": "Mohamed", "given": "Shakir"},
+      {"family": "Lerchner", "given": "Alexander"}
+    ],
+    "title": "β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
+    "container-title": "International Conference on Learning Representations",
+    "year": 2017
+  },
+  {
+    "id": "AlemiFischerDillonMurphy2017",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Alemi", "given": "Alexander A."},
+      {"family": "Fischer", "given": "Ian"},
+      {"family": "Dillon", "given": "Joshua V."},
+      {"family": "Murphy", "given": "Kevin"}
+    ],
+    "title": "Deep Variational Information Bottleneck",
+    "container-title": "International Conference on Learning Representations",
+    "year": 2017
+  },
+  {
+    "id": "KimEtAl2018TCAV",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Kim", "given": "Been"},
+      {"family": "Wattenberg", "given": "Martin"},
+      {"family": "Gilmer", "given": "Justin"},
+      {"family": "Cai", "given": "Carrie"},
+      {"family": "Wexler", "given": "James"},
+      {"family": "Viégas", "given": "Fernanda"},
+      {"family": "Sayres", "given": "Rory"}
+    ],
+    "title": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
+    "container-title": "Proceedings of the 35th International Conference on Machine Learning",
+    "year": 2018,
+    "publisher": "PMLR",
+    "volume": "80",
+    "pages": "2668-2677"
+  },
+  {
+    "id": "GhorbaniEtAl2019ACE",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Ghorbani", "given": "Amirata"},
+      {"family": "Wexler", "given": "James"},
+      {"family": "Zou", "given": "James"},
+      {"family": "Kim", "given": "Been"}
+    ],
+    "title": "Towards Automatic Concept-based Explanations",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "year": 2019
+  },
+  {
+    "id": "AlainBengio2016",
+    "type": "manuscript",
+    "author": [
+      {"family": "Alain", "given": "Guillaume"},
+      {"family": "Bengio", "given": "Yoshua"}
+    ],
+    "title": "Understanding Intermediate Layers Using Linear Classifier Probes",
+    "year": 2016,
+    "archive": "arXiv",
+    "eprint": "1610.01644"
+  },
+  {
+    "id": "TenneyDasPavlick2019",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Tenney", "given": "Ian"},
+      {"family": "Xia", "given": "Patrick"},
+      {"family": "Chen", "given": "Berlin"}
+    ],
+    "title": "What Do You Learn from Context? Probing for Sentence Structure in Contextualized Word Representations",
+    "container-title": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)",
+    "year": 2019,
+    "pages": "1513-1525",
+    "publisher": "Association for Computational Linguistics",
+    "note": "and other authors"
+  },
+  {
+    "id": "MengBauAndonianBelinkov2022",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Meng", "given": "Kevin"},
+      {"family": "Bau", "given": "David"},
+      {"family": "Andonian", "given": "Alex"},
+      {"family": "Belinkov", "given": "Yonatan"}
+    ],
+    "title": "Locating and Editing Factual Associations in GPT",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "year": 2022
+  },
+  {
+    "id": "KroegerLeyKrishnaAgarwalLakkaraju2024",
+    "type": "manuscript",
+    "author": [
+      {"family": "Kroeger", "given": "Nicholas"},
+      {"family": "Ley", "given": "Dan"},
+      {"family": "Krishna", "given": "Satyapriya"},
+      {"family": "Agarwal", "given": "Chirag"},
+      {"family": "Lakkaraju", "given": "Himabindu"}
+    ],
+    "title": "In-Context Explainers: Harnessing LLMs for Explaining Black Box Models",
+    "year": 2024,
+    "archive": "arXiv",
+    "eprint": "2310.05797"
+  },
+  {
+    "id": "BordtRaidlLuxburg2024",
+    "type": "manuscript",
+    "author": [
+      {"family": "Bordt", "given": "Sebastian"},
+      {"family": "Raidl", "given": "Eric"},
+      {"family": "von Luxburg", "given": "Ulrike"}
+    ],
+    "title": "Rethinking Explainable Machine Learning as Applied Statistics",
+    "year": 2024,
+    "archive": "arXiv",
+    "eprint": "2402.02870"
+  },
+  {
+    "id": "doshi2017towards",
+    "type": "manuscript",
+    "author": [
+      {"family": "Doshi-Velez", "given": "Finale"},
+      {"family": "Kim", "given": "Been"}
+    ],
+    "title": "Towards a Rigorous Science of Interpretable Machine Learning",
+    "year": 2017,
+    "archive": "arXiv",
+    "eprint": "1702.08608"
+  },
+  {
+    "id": "locatello2019challenging",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Locatello", "given": "Francesco"},
+      {"family": "Bauer", "given": "Stefan"},
+      {"family": "Lucic", "given": "Mario"},
+      {"family": "Gelly", "given": "Sylvain"},
+      {"family": "Schölkopf", "given": "Bernhard"},
+      {"family": "Bachem", "given": "Olivier"}
+    ],
+    "title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations",
+    "container-title": "International Conference on Machine Learning",
+    "year": 2019,
+    "pages": "4114-4124"
+  },
+  {
+    "id": "dai2022knowledge",
+    "type": "paper-conference",
+    "author": [
+      {"family": "Dai", "given": "Damai"},
+      {"family": "Dong", "given": "Li"},
+      {"family": "Sun", "given": "Yutao"},
+      {"family": "Ma", "given": "Shuming"},
+      {"family": "Wei", "given": "Furu"}
+    ],
+    "title": "Knowledge Neurons in Pretrained Transformers",
+    "container-title": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "year": 2022,
+    "pages": "7687-7703"
   }
 ]
 
