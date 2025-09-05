@@ -1,179 +1,89 @@
 [
   {
-    "id": "botzer2025publication",
+    "id": "Botzer2025PublicationTO",
     "type": "article-journal",
+    "title": "Publication Trends on the Varying Coefficients Model: Estimating the Actual (Under)Utilization of a Highly Acclaimed Method for Studying Statistical Interactions",
     "author": [
       {"family": "Botzer", "given": "Assaf"}
     ],
-    "title": "Publication Trends on the Varying Coefficients Model: Estimating the Actual (Under)Utilization of a Highly Acclaimed Method for Studying Statistical Interactions",
-    "container-title": "Publications",
-    "year": 2025,
+    "container-title": "Publ.",
+    "issued": {"date-parts": [[2025]]},
     "volume": "13",
-    "issue": "2",
     "page": "19",
-    "DOI": "10.3390/publications13020019"
+    "URL": "https://api.semanticscholar.org/CorpusID:277710491"
   },
   {
-    "id": "hu2024varying",
+    "id": "Murakami2024FastSV",
     "type": "article-journal",
-    "author": [
-      {"family": "Hu", "given": "Yiqing"},
-      {"family": "Zhao", "given": "Qingyuan"}
-    ],
-    "title": "Varying-Coefficient Panel Models with Spatial Dependence",
-    "container-title": "Journal of Econometrics",
-    "year": 2024,
-    "volume": "241",
-    "issue": "1",
-    "page": "105883",
-    "DOI": "10.1016/j.jeconom.2024.105883"
-  },
-  {
-    "id": "luo2024urban",
-    "type": "article-journal",
-    "author": [
-      {"family": "Luo", "given": "Chongliang"},
-      {"family": "Du", "given": "Yihong"},
-      {"family": "Zhao", "given": "Peng"}
-    ],
-    "title": "Urban Economic Modeling with Spatially Varying Coefficients",
-    "container-title": "Regional Science and Urban Economics",
-    "year": 2024,
-    "volume": "99",
-    "page": "104009",
-    "DOI": "10.1016/j.regsciurbeco.2024.104009"
-  },
-  {
-    "id": "murakami2025fast",
-    "type": "article-journal",
+    "title": "Fast Spatio‐Temporally Varying Coefficient Modeling With Reluctant Interaction Selection",
     "author": [
       {"family": "Murakami", "given": "Daisuke"},
       {"family": "Shirota", "given": "Shinichiro"},
       {"family": "Kajita", "given": "Seiji"},
       {"family": "Kajita", "given": "Mami"}
     ],
-    "title": "Fast Spatio-Temporally Varying Coefficient Modeling With Reluctant Interaction Selection",
     "container-title": "Geographical Analysis",
-    "year": 2025,
-    "volume": "57",
-    "page": "521--539",
-    "DOI": "10.1111/gean.70005"
+    "issued": {"date-parts": [[2024]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:273233361"
   },
   {
-    "id": "fan2025network",
+    "id": "Fan2025NetworkVC",
     "type": "article-journal",
+    "title": "Network Varying Coefficient Model",
     "author": [
       {"family": "Fan", "given": "Xinyan"},
       {"family": "Fang", "given": "Kuangnan"},
       {"family": "Lan", "given": "Wei"},
       {"family": "Tsai", "given": "Chih-Ling"}
     ],
-    "title": "Network Varying Coefficient Model",
     "container-title": "Journal of the American Statistical Association",
-    "year": 2025,
-    "DOI": "10.1080/01621459.2025.2470481"
+    "issued": {"date-parts": [[2025]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:276599564"
   },
   {
-    "id": "englert2025spatially",
-    "type": "manuscript",
+    "id": "Englert2025SpatiallyVC",
+    "type": "paper-conference",
+    "title": "Spatially Varying Coefficient Models for Estimating Heterogeneous Mixture Effects",
     "author": [
-      {"family": "Englert", "given": "Jacob"},
+      {"family": "Englert", "given": "Jacob R."},
       {"family": "Chang", "given": "Howard"}
     ],
-    "title": "Spatially Varying Coefficient Models for Estimating Heterogeneous Mixture Effects",
-    "year": 2025,
-    "archive": "arXiv",
-    "eprint": "2502.14651",
-    "note": "stat.AP"
+    "issued": {"date-parts": [[2025]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:276482233"
   },
   {
-    "id": "shi2021graph",
-    "type": "manuscript",
-    "author": [
-      {"family": "Shi", "given": "Yu"},
-      {"family": "Liu", "given": "Yang"},
-      {"family": "Yan", "given": "Hao"}
-    ],
-    "title": "Graph-Regularized Estimation for Context-Varying Models",
-    "year": 2021,
-    "archive": "arXiv",
-    "eprint": "2111.01104",
-    "note": "stat.ME"
-  },
-  {
-    "id": "hastie1993varying",
+    "id": "Hastie1993VaryingCoefficientM",
     "type": "article-journal",
+    "title": "Varying‐Coefficient Models",
     "author": [
-      {"family": "Hastie", "given": "Trevor"},
+      {"family": "Hastie", "given": "Trevor J."},
       {"family": "Tibshirani", "given": "Robert"}
     ],
-    "title": "Varying-coefficient models",
-    "container-title": "Journal of the Royal Statistical Society: Series B (Methodological)",
-    "year": 1993,
+    "container-title": "Journal of the Royal Statistical Society. Series B (Methodological)",
+    "issued": {"date-parts": [[1993]]},
     "volume": "55",
-    "issue": "4",
-    "page": "757--796"
+    "page": "757-779",
+    "URL": "https://api.semanticscholar.org/CorpusID:125170071"
   },
   {
-    "id": "li2024semi",
+    "id": "Ruder2017AnOO",
     "type": "article-journal",
-    "author": [
-      {"family": "Li", "given": "Ting"},
-      {"family": "Yu", "given": "Yang"},
-      {"family": "Wang", "given": "Xiao"},
-      {"family": "Marron", "given": "J.S."},
-      {"family": "Zhu", "given": "Hongtu"}
-    ],
-    "title": "Semi-nonparametric Varying Coefficients Models for Imaging Genetics",
-    "container-title": "Statistica Sinica",
-    "year": 2024,
-    "note": "To appear",
-    "DOI": "10.5705/ss.202024.0118"
-  },
-  {
-    "id": "wang2025boosted",
-    "type": "article-journal",
-    "author": [
-      {"family": "Wang", "given": "Yunfei"},
-      {"family": "Sun", "given": "Qiang"}
-    ],
-    "title": "Boosted Trees for Varying-Coefficient Models",
-    "container-title": "Machine Learning",
-    "year": 2025,
-    "note": "To appear",
-    "DOI": "10.1007/s00180-025-01603-8"
-  },
-  {
-    "id": "cheng2020xgboost",
-    "type": "manuscript",
-    "author": [
-      {"family": "Cheng", "given": "Yu"},
-      {"family": "Yang", "given": "Dongdong"},
-      {"family": "Zhou", "given": "Denny"}
-    ],
-    "title": "XGBoost-Inspired Estimation for High-Dimensional Varying Coefficient Models",
-    "year": 2020,
-    "archive": "arXiv",
-    "eprint": "2003.06416",
-    "note": "stat.ML"
-  },
-  {
-    "id": "ruder2017overview",
-    "type": "manuscript",
+    "title": "An Overview of Multi-Task Learning in Deep Neural Networks",
     "author": [
       {"family": "Ruder", "given": "Sebastian"}
     ],
-    "title": "An Overview of Multi-Task Learning in Deep Neural Networks",
-    "year": 2017,
-    "archive": "arXiv",
-    "eprint": "1706.05098"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2017]]},
+    "volume": "abs/1706.05098",
+    "URL": "https://api.semanticscholar.org/CorpusID:10175374"
   },
   {
-    "id": "vaswani2017attention",
+    "id": "Vaswani2017AttentionIA",
     "type": "paper-conference",
+    "title": "Attention is All you Need",
     "author": [
       {"family": "Vaswani", "given": "Ashish"},
-      {"family": "Shazeer", "given": "Noam"},
+      {"family": "Shazeer", "given": "Noam M."},
       {"family": "Parmar", "given": "Niki"},
       {"family": "Uszkoreit", "given": "Jakob"},
       {"family": "Jones", "given": "Llion"},
@@ -181,56 +91,56 @@
       {"family": "Kaiser", "given": "Lukasz"},
       {"family": "Polosukhin", "given": "Illia"}
     ],
-    "title": "Attention Is All You Need",
-    "container-title": "Advances in Neural Information Processing Systems 30",
-    "year": 2017,
-    "page": "5998--6008"
+    "container-title": "Neural Information Processing Systems",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:13756489"
   },
   {
-    "id": "kingma2013auto",
-    "type": "manuscript",
+    "id": "Kingma2013AutoEncodingVB",
+    "type": "article-journal",
+    "title": "Auto-Encoding Variational Bayes",
     "author": [
       {"family": "Kingma", "given": "Diederik P."},
       {"family": "Welling", "given": "Max"}
     ],
-    "title": "Auto-Encoding Variational Bayes",
-    "year": 2013,
-    "archive": "arXiv",
-    "eprint": "1312.6114"
+    "container-title": "CoRR",
+    "issued": {"date-parts": [[2013]]},
+    "volume": "abs/1312.6114",
+    "URL": "https://api.semanticscholar.org/CorpusID:216078090"
   },
   {
-    "id": "finn2017model",
+    "id": "Finn2017ModelAgnosticMF",
     "type": "paper-conference",
+    "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
     "author": [
       {"family": "Finn", "given": "Chelsea"},
-      {"family": "Abbeel", "given": "Pieter"},
+      {"family": "Abbeel", "given": "P."},
       {"family": "Levine", "given": "Sergey"}
     ],
-    "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
-    "container-title": "Proceedings of the 34th International Conference on Machine Learning",
-    "year": 2017,
-    "page": "1126--1135"
+    "container-title": "International Conference on Machine Learning",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:6719686"
   },
   {
-    "id": "hospedales2021meta",
+    "id": "Hospedales2020MetaLearningIN",
     "type": "article-journal",
+    "title": "Meta-Learning in Neural Networks: A Survey",
     "author": [
-      {"family": "Hospedales", "given": "Timothy"},
+      {"family": "Hospedales", "given": "Timothy M."},
       {"family": "Antoniou", "given": "Antreas"},
       {"family": "Micaelli", "given": "Paul"},
-      {"family": "Storkey", "given": "Amos"}
+      {"family": "Storkey", "given": "Amos J."}
     ],
-    "title": "Meta-Learning in Neural Networks: A Survey",
     "container-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    "year": 2021,
+    "issued": {"date-parts": [[2020]]},
     "volume": "44",
-    "issue": "9",
-    "page": "5149--5169",
-    "DOI": "10.1109/TPAMI.2021.3079209"
+    "page": "5149-5169",
+    "URL": "https://api.semanticscholar.org/CorpusID:215744839"
   },
   {
-    "id": "brown2020language",
-    "type": "paper-conference",
+    "id": "Brown2020LanguageMA",
+    "type": "article-journal",
+    "title": "Language Models are Few-Shot Learners",
     "author": [
       {"family": "Brown", "given": "Tom B."},
       {"family": "Mann", "given": "Benjamin"},
@@ -245,11 +155,11 @@
       {"family": "Agarwal", "given": "Sandhini"},
       {"family": "Herbert-Voss", "given": "Ariel"},
       {"family": "Krueger", "given": "Gretchen"},
-      {"family": "Henighan", "given": "Tom"},
+      {"family": "Henighan", "given": "T. J."},
       {"family": "Child", "given": "Rewon"},
       {"family": "Ramesh", "given": "Aditya"},
       {"family": "Ziegler", "given": "Daniel M."},
-      {"family": "Wu", "given": "Jeffrey"},
+      {"family": "Wu", "given": "Jeff"},
       {"family": "Winter", "given": "Clemens"},
       {"family": "Hesse", "given": "Christopher"},
       {"family": "Chen", "given": "Mark"},
@@ -264,14 +174,15 @@
       {"family": "Sutskever", "given": "Ilya"},
       {"family": "Amodei", "given": "Dario"}
     ],
-    "title": "Language Models are Few-Shot Learners",
-    "container-title": "Advances in Neural Information Processing Systems 33",
-    "year": 2020,
-    "page": "1877--1901"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2020]]},
+    "volume": "abs/2005.14165",
+    "URL": "https://api.semanticscholar.org/CorpusID:218971783"
   },
   {
-    "id": "dong2022survey",
-    "type": "manuscript",
+    "id": "Dong2022ASO",
+    "type": "paper-conference",
+    "title": "A Survey on In-context Learning",
     "author": [
       {"family": "Dong", "given": "Qingxiu"},
       {"family": "Li", "given": "Lei"},
@@ -281,17 +192,17 @@
       {"family": "Chang", "given": "Baobao"},
       {"family": "Sun", "given": "Xu"},
       {"family": "Xu", "given": "Jingjing"},
-      {"family": "Huang", "given": "Fei"},
-      {"family": "Li", "given": "Xin"}
+      {"family": "Li", "given": "Lei"},
+      {"family": "Sui", "given": "Zhifang"}
     ],
-    "title": "A Survey for In-context Learning",
-    "year": 2022,
-    "archive": "arXiv",
-    "eprint": "2301.00234"
+    "container-title": "Conference on Empirical Methods in Natural Language Processing",
+    "issued": {"date-parts": [[2022]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:255372865"
   },
   {
-    "id": "wei2022emergent",
+    "id": "Wei2022EmergentAO",
     "type": "article-journal",
+    "title": "Emergent Abilities of Large Language Models",
     "author": [
       {"family": "Wei", "given": "Jason"},
       {"family": "Tay", "given": "Yi"},
@@ -310,13 +221,15 @@
       {"family": "Dean", "given": "Jeff"},
       {"family": "Fedus", "given": "William"}
     ],
-    "title": "Emergent Abilities of Large Language Models",
-    "container-title": "Transactions on Machine Learning Research",
-    "year": 2022
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2022]]},
+    "volume": "abs/2206.07682",
+    "URL": "https://api.semanticscholar.org/CorpusID:249674500"
   },
   {
-    "id": "min2022rethinking",
-    "type": "paper-conference",
+    "id": "Min2022RethinkingTR",
+    "type": "article-journal",
+    "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
     "author": [
       {"family": "Min", "given": "Sewon"},
       {"family": "Lyu", "given": "Xinxi"},
@@ -326,14 +239,15 @@
       {"family": "Hajishirzi", "given": "Hannaneh"},
       {"family": "Zettlemoyer", "given": "Luke"}
     ],
-    "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
-    "container-title": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
-    "year": 2022,
-    "page": "11048--11064"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2022]]},
+    "volume": "abs/2202.12837",
+    "URL": "https://api.semanticscholar.org/CorpusID:247155069"
   },
   {
-    "id": "dai2022can",
-    "type": "manuscript",
+    "id": "Dai2022WhyCG",
+    "type": "paper-conference",
+    "title": "Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers",
     "author": [
       {"family": "Dai", "given": "Damai"},
       {"family": "Sun", "given": "Yutao"},
@@ -343,96 +257,137 @@
       {"family": "Sui", "given": "Zhifang"},
       {"family": "Wei", "given": "Furu"}
     ],
-    "title": "Why Can GPT Learn In-Context? Language Models as Meta-Learners",
-    "year": 2022,
-    "archive": "arXiv",
-    "eprint": "2212.10559"
+    "issued": {"date-parts": [[2022]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:258686544"
   },
   {
-    "id": "von2023transformers",
-    "type": "paper-conference",
+    "id": "AtaeeTarzanagh2023TransformersAS",
+    "type": "article-journal",
+    "title": "Transformers as Support Vector Machines",
     "author": [
       {"family": "Ataee Tarzanagh", "given": "Davoud"},
       {"family": "Li", "given": "Yingcong"},
       {"family": "Thrampoulidis", "given": "Christos"},
       {"family": "Oymak", "given": "Samet"}
     ],
-    "title": "Transformers as Support Vector Machines",
-    "container-title": "Proceedings of the 40th International Conference on Machine Learning",
-    "year": 2023,
-    "page": "35017--35037"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2023]]},
+    "volume": "abs/2308.16898",
+    "URL": "https://api.semanticscholar.org/CorpusID:261395206"
   },
   {
-    "id": "xie2021an",
-    "type": "manuscript",
+    "id": "Xie2021AnEO",
+    "type": "article-journal",
+    "title": "An Explanation of In-context Learning as Implicit Bayesian Inference",
     "author": [
       {"family": "Xie", "given": "Sang Michael"},
       {"family": "Raghunathan", "given": "Aditi"},
       {"family": "Liang", "given": "Percy"},
       {"family": "Ma", "given": "Tengyu"}
     ],
-    "title": "An Explanation of In-context Learning as Implicit Bayesian Inference",
-    "year": 2021,
-    "archive": "arXiv",
-    "eprint": "2111.02080"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2021]]},
+    "volume": "abs/2111.02080",
+    "URL": "https://api.semanticscholar.org/CorpusID:241035330"
   },
   {
-    "id": "olsson2022incontext",
-    "type": "manuscript",
-    "author": [
-      {"family": "Olsson", "given": "Catherine"}
-    ],
+    "id": "Olsson2022IncontextLA",
+    "type": "article-journal",
     "title": "In-context Learning and Induction Heads",
-    "year": 2022,
-    "note": "and others",
-    "archive": "arXiv",
-    "eprint": "2209.11895"
+    "author": [
+      {"family": "Olsson", "given": "Catherine"},
+      {"family": "Elhage", "given": "Nelson"},
+      {"family": "Nanda", "given": "Neel"},
+      {"family": "Joseph", "given": "Nicholas"},
+      {"family": "Dassarma", "given": "Nova"},
+      {"family": "Henighan", "given": "T. J."},
+      {"family": "Mann", "given": "Benjamin"},
+      {"family": "Askell", "given": "Amanda"},
+      {"family": "Bai", "given": "Yuntao"},
+      {"family": "Chen", "given": "Anna"},
+      {"family": "Conerly", "given": "Tom"},
+      {"family": "Drain", "given": "Dawn"},
+      {"family": "Ganguli", "given": "Deep"},
+      {"family": "Hatfield-Dodds", "given": "Zac"},
+      {"family": "Hernandez", "given": "Danny"},
+      {"family": "Johnston", "given": "Scott"},
+      {"family": "Jones", "given": "Andy"},
+      {"family": "Kernion", "given": "John"},
+      {"family": "Lovitt", "given": "Liane"},
+      {"family": "Ndousse", "given": "Kamal"},
+      {"family": "Amodei", "given": "Dario"},
+      {"family": "Brown", "given": "Tom B."},
+      {"family": "Clark", "given": "Jack"},
+      {"family": "Kaplan", "given": "Jared"},
+      {"family": "McCandlish", "given": "Sam"},
+      {"family": "Olah", "given": "Chris"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2022]]},
+    "volume": "abs/2209.11895",
+    "URL": "https://api.semanticscholar.org/CorpusID:252532078"
   },
   {
-    "id": "bommasani2021opportunities",
+    "id": "Bommasani2021OnTO",
     "type": "manuscript",
     "author": [
-      {"family": "Bommasani", "given": "Rishi"}
+      {"family": "Bommasani", "given": "Rishi"},
+      {"family": "Hudson", "given": "Drew A."},
+      {"family": "Adeli", "given": "Ehsan"}
     ],
     "title": "On the Opportunities and Risks of Foundation Models",
     "year": 2021,
-    "note": "and others",
     "archive": "arXiv",
-    "eprint": "2108.07258"
+    "eprint": "2108.07258",
+    "note": "and other authors"
   },
   {
-    "id": "wei2022chain",
-    "type": "paper-conference",
+    "id": "Wei2022ChainOT",
+    "type": "manuscript",
     "author": [
       {"family": "Wei", "given": "Jason"},
       {"family": "Wang", "given": "Xuezhi"},
       {"family": "Schuurmans", "given": "Dale"},
       {"family": "Bosma", "given": "Maarten"},
-      {"family": "Xia", "given": "Fei"},
-      {"family": "Chi", "given": "Ed"},
-      {"family": "Le", "given": "Quoc V."},
+      {"family": "Chi", "given": "Ed H."},
+      {"family": "Xia", "given": "F."},
+      {"family": "Le", "given": "Quoc"},
       {"family": "Zhou", "given": "Denny"}
     ],
-    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
-    "container-title": "Advances in Neural Information Processing Systems 35",
+    "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
     "year": 2022,
-    "page": "6021--6035"
+    "archive": "arXiv",
+    "eprint": "2201.11903"
   },
   {
-    "id": "linardatos2020explainable",
+    "id": "Linardatos2020ExplainableAA",
     "type": "article-journal",
     "author": [
       {"family": "Linardatos", "given": "Pantelis"},
       {"family": "Papastefanopoulos", "given": "Vasilis"},
-      {"family": "Kotsiantis", "given": "Sotiris"}
+      {"family": "Kotsiantis", "given": "Sotiris B."}
     ],
     "title": "Explainable AI: A Review of Machine Learning Interpretability Methods",
     "container-title": "Entropy",
-    "year": 2021,
-    "volume": "23",
-    "issue": "1",
-    "page": "18",
-    "DOI": "10.3390/e23010018"
+    "year": 2020,
+    "volume": "23"
+  },
+  {
+    "id": "Petroni2019LanguageMA",
+    "type": "manuscript",
+    "author": [
+      {"family": "Petroni", "given": "Fabio"},
+      {"family": "Rocktäschel", "given": "Tim"},
+      {"family": "Lewis", "given": "Patrick"},
+      {"family": "Bakhtin", "given": "Anton"},
+      {"family": "Wu", "given": "Yuxiang"},
+      {"family": "Miller", "given": "Alexander H."},
+      {"family": "Riedel", "given": "Sebastian"}
+    ],
+    "title": "Language Models as Knowledge Bases?",
+    "year": 2019,
+    "archive": "arXiv",
+    "eprint": "1909.01066"
   },
   {
     "id": "tibshirani1996regression",
@@ -602,8 +557,8 @@
     "URL": "https://proceedings.neurips.cc/paper/1991/file/ff4d5fbbafdf976cfdc032e3bde78de5-Abstract.html"
   }, 
   {
-    "id": "bommasani2021opportunities",
-    "type": "article-journal",
+    "id": "Bommasani2021OnTO",
+    "type": "manuscript",
     "author": [
       {"family": "Bommasani", "given": "Rishi"},
       {"family": "Hudson", "given": "Drew A."},
@@ -612,229 +567,231 @@
       {"family": "Arora", "given": "Simran"}
     ],
     "title": "On the Opportunities and Risks of Foundation Models",
-    "container-title": "arXiv preprint arXiv:2108.07258",
     "year": 2021,
+    "archive": "arXiv",
+    "eprint": "2108.07258",
     "note": "and other authors"
   },
   {
-    "id": "RibeiroSinghGuestrin2016",
+    "id": "Ribeiro2016WhySI",
     "type": "paper-conference",
+    "title": "“Why Should I Trust You?”: Explaining the Predictions of Any Classifier",
     "author": [
       {"family": "Ribeiro", "given": "Marco Tulio"},
       {"family": "Singh", "given": "Sameer"},
       {"family": "Guestrin", "given": "Carlos"}
     ],
-    "title": "“Why Should I Trust You?”: Explaining the Predictions of Any Classifier",
     "container-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
-    "year": 2016,
-    "pages": "1135-1144",
-    "publisher": "ACM",
-    "DOI": "10.1145/2939672.2939778"
+    "issued": {"date-parts": [[2016]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:13029170"
   },
   {
-    "id": "LundbergLee2017",
+    "id": "Lundberg2017AUA",
     "type": "paper-conference",
+    "title": "A Unified Approach to Interpreting Model Predictions",
     "author": [
       {"family": "Lundberg", "given": "Scott M."},
       {"family": "Lee", "given": "Su-In"}
     ],
-    "title": "A Unified Approach to Interpreting Model Predictions",
-    "container-title": "Advances in Neural Information Processing Systems",
-    "year": 2017,
-    "pages": "4765-4774"
+    "container-title": "Neural Information Processing Systems",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:21889700"
   },
   {
-    "id": "SundararajanTalyYan2017",
+    "id": "Sundararajan2017AxiomaticAF",
     "type": "paper-conference",
+    "title": "Axiomatic Attribution for Deep Networks",
     "author": [
       {"family": "Sundararajan", "given": "Mukund"},
       {"family": "Taly", "given": "Ankur"},
       {"family": "Yan", "given": "Qiqi"}
     ],
-    "title": "Axiomatic Attribution for Deep Networks",
-    "container-title": "Proceedings of the 34th International Conference on Machine Learning",
-    "year": 2017,
-    "publisher": "PMLR",
-    "volume": "70",
-    "pages": "3319-3328"
+    "container-title": "International Conference on Machine Learning",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:16747630"
   },
   {
-    "id": "ShrikumarGreensideKundaje2017",
-    "type": "manuscript",
+    "id": "Shrikumar2017LearningIF",
+    "type": "paper-conference",
+    "title": "Learning Important Features Through Propagating Activation Differences",
     "author": [
       {"family": "Shrikumar", "given": "Avanti"},
       {"family": "Greenside", "given": "Peyton"},
       {"family": "Kundaje", "given": "Anshul"}
     ],
-    "title": "Learning Important Features Through Propagating Activation Differences",
-    "year": 2017,
-    "archive": "arXiv",
-    "eprint": "1704.02685"
+    "container-title": "International Conference on Machine Learning",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:3385018"
   },
   {
-    "id": "ChenLiTaoBarnettSuRudin2019",
+    "id": "Chen2018ThisLL",
     "type": "paper-conference",
+    "title": "This looks like that: deep learning for interpretable image recognition",
     "author": [
       {"family": "Chen", "given": "Chaofan"},
       {"family": "Li", "given": "Oscar"},
-      {"family": "Tao", "given": "Daniel"},
-      {"family": "Barnett", "given": "Alina"},
+      {"family": "Barnett", "given": "Alina Jade"},
       {"family": "Su", "given": "Jonathan"},
       {"family": "Rudin", "given": "Cynthia"}
     ],
-    "title": "This Looks Like That: Deep Learning for Interpretable Image Recognition",
-    "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    "year": 2019,
-    "pages": "8930-8939",
-    "DOI": "10.1109/CVPR.2019.00914"
+    "container-title": "Neural Information Processing Systems",
+    "issued": {"date-parts": [[2018]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:49482223"
   },
   {
-    "id": "PapernotMcDaniel2018",
-    "type": "paper-conference",
+    "id": "Papernot2018DeepKN",
+    "type": "article-journal",
+    "title": "Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning",
     "author": [
       {"family": "Papernot", "given": "Nicolas"},
-      {"family": "McDaniel", "given": "Patrick"},
-      {"family": "Goodfellow", "given": "Ian"}
+      {"family": "Mcdaniel", "given": "Patrick"}
     ],
-    "title": "Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning",
-    "container-title": "27th USENIX Security Symposium (USENIX Security 18)",
-    "year": 2018,
-    "pages": "137-154"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2018]]},
+    "volume": "abs/1803.04765",
+    "URL": "https://api.semanticscholar.org/CorpusID:3882460"
   },
   {
-    "id": "KohLiang2017",
+    "id": "Koh2017UnderstandingBP",
     "type": "paper-conference",
+    "title": "Understanding Black-box Predictions via Influence Functions",
     "author": [
       {"family": "Koh", "given": "Pang Wei"},
       {"family": "Liang", "given": "Percy"}
     ],
-    "title": "Understanding Black-box Predictions via Influence Functions",
-    "container-title": "Proceedings of the 34th International Conference on Machine Learning",
-    "year": 2017,
-    "publisher": "PMLR",
-    "volume": "70",
-    "pages": "1885-1894"
+    "container-title": "International Conference on Machine Learning",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:13193974"
   },
   {
-    "id": "CremerMorrisDuvenaud2018",
+    "id": "Cremer2018InferenceSI",
     "type": "paper-conference",
+    "title": "Inference Suboptimality in Variational Autoencoders",
     "author": [
       {"family": "Cremer", "given": "Chris"},
-      {"family": "Morris", "given": "Quaid"},
-      {"family": "Duvenaud", "given": "David"}
+      {"family": "Li", "given": "Xuechen"},
+      {"family": "Duvenaud", "given": "David Kristjanson"}
     ],
-    "title": "Inference Suboptimality in Variational Autoencoders",
-    "container-title": "Proceedings of the 35th International Conference on Machine Learning",
-    "year": 2018,
-    "publisher": "PMLR",
-    "volume": "80",
-    "pages": "1078-1086"
+    "container-title": "International Conference on Machine Learning",
+    "issued": {"date-parts": [[2018]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:3524184"
   },
   {
-    "id": "HigginsEtAl2017BetaVAE",
+    "id": "Higgins2016betaVAELB",
     "type": "paper-conference",
+    "title": "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
     "author": [
       {"family": "Higgins", "given": "Irina"},
-      {"family": "Matthey", "given": "Loic"},
+      {"family": "Matthey", "given": "Loïc"},
       {"family": "Pal", "given": "Arka"},
-      {"family": "Burgess", "given": "Christopher"},
+      {"family": "Burgess", "given": "Christopher P."},
       {"family": "Glorot", "given": "Xavier"},
-      {"family": "Botvinick", "given": "Matthew"},
+      {"family": "Botvinick", "given": "Matthew M."},
       {"family": "Mohamed", "given": "Shakir"},
       {"family": "Lerchner", "given": "Alexander"}
     ],
-    "title": "β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
     "container-title": "International Conference on Learning Representations",
-    "year": 2017
+    "issued": {"date-parts": [[2016]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:46798026"
   },
   {
-    "id": "AlemiFischerDillonMurphy2017",
-    "type": "paper-conference",
+    "id": "Alemi2017DeepVI",
+    "type": "article-journal",
+    "title": "Deep Variational Information Bottleneck",
     "author": [
       {"family": "Alemi", "given": "Alexander A."},
       {"family": "Fischer", "given": "Ian"},
-      {"family": "Dillon", "given": "Joshua V."},
-      {"family": "Murphy", "given": "Kevin"}
+      {"family": "Dillon", "given": "Joshua V."}
     ],
-    "title": "Deep Variational Information Bottleneck",
-    "container-title": "International Conference on Learning Representations",
-    "year": 2017
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2017]]},
+    "volume": "abs/1612.00410",
+    "URL": "https://api.semanticscholar.org/CorpusID:204922497"
   },
   {
-    "id": "KimEtAl2018TCAV",
+    "id": "Kim2017InterpretabilityBF",
     "type": "paper-conference",
+    "title": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
     "author": [
       {"family": "Kim", "given": "Been"},
       {"family": "Wattenberg", "given": "Martin"},
       {"family": "Gilmer", "given": "Justin"},
-      {"family": "Cai", "given": "Carrie"},
+      {"family": "Cai", "given": "Carrie J."},
       {"family": "Wexler", "given": "James"},
-      {"family": "Viégas", "given": "Fernanda"},
+      {"family": "Viégas", "given": "Fernanda B."},
       {"family": "Sayres", "given": "Rory"}
     ],
-    "title": "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)",
-    "container-title": "Proceedings of the 35th International Conference on Machine Learning",
-    "year": 2018,
-    "publisher": "PMLR",
-    "volume": "80",
-    "pages": "2668-2677"
+    "container-title": "International Conference on Machine Learning",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:51737170"
   },
   {
-    "id": "GhorbaniEtAl2019ACE",
+    "id": "Ghorbani2019TowardsAC",
     "type": "paper-conference",
+    "title": "Towards Automatic Concept-based Explanations",
     "author": [
       {"family": "Ghorbani", "given": "Amirata"},
       {"family": "Wexler", "given": "James"},
-      {"family": "Zou", "given": "James"},
+      {"family": "Zou", "given": "James Y."},
       {"family": "Kim", "given": "Been"}
     ],
-    "title": "Towards Automatic Concept-based Explanations",
-    "container-title": "Advances in Neural Information Processing Systems",
-    "year": 2019
+    "container-title": "Neural Information Processing Systems",
+    "issued": {"date-parts": [[2019]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:184487319"
   },
   {
-    "id": "AlainBengio2016",
-    "type": "manuscript",
+    "id": "Alain2016UnderstandingIL",
+    "type": "article-journal",
+    "title": "Understanding intermediate layers using linear classifier probes",
     "author": [
       {"family": "Alain", "given": "Guillaume"},
       {"family": "Bengio", "given": "Yoshua"}
     ],
-    "title": "Understanding Intermediate Layers Using Linear Classifier Probes",
-    "year": 2016,
-    "archive": "arXiv",
-    "eprint": "1610.01644"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2016]]},
+    "volume": "abs/1610.01644",
+    "URL": "https://api.semanticscholar.org/CorpusID:9794990"
   },
   {
-    "id": "TenneyDasPavlick2019",
-    "type": "paper-conference",
+    "id": "Tenney2019WhatDY",
+    "type": "article-journal",
+    "title": "What do you learn from context? Probing for sentence structure in contextualized word representations",
     "author": [
       {"family": "Tenney", "given": "Ian"},
       {"family": "Xia", "given": "Patrick"},
-      {"family": "Chen", "given": "Berlin"}
+      {"family": "Chen", "given": "Berlin"},
+      {"family": "Wang", "given": "Alex"},
+      {"family": "Poliak", "given": "Adam"},
+      {"family": "McCoy", "given": "R. Thomas"},
+      {"family": "Kim", "given": "Najoung"},
+      {"family": "Van Durme", "given": "Benjamin"},
+      {"family": "Bowman", "given": "Samuel R."},
+      {"family": "Das", "given": "Dipanjan"},
+      {"family": "Pavlick", "given": "Ellie"}
     ],
-    "title": "What Do You Learn from Context? Probing for Sentence Structure in Contextualized Word Representations",
-    "container-title": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)",
-    "year": 2019,
-    "pages": "1513-1525",
-    "publisher": "Association for Computational Linguistics",
-    "note": "and other authors"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2019]]},
+    "volume": "abs/1905.06316",
+    "URL": "https://api.semanticscholar.org/CorpusID:108300988"
   },
   {
-    "id": "MengBauAndonianBelinkov2022",
+    "id": "Meng2022LocatingAE",
     "type": "paper-conference",
+    "title": "Locating and Editing Factual Associations in GPT",
     "author": [
       {"family": "Meng", "given": "Kevin"},
       {"family": "Bau", "given": "David"},
       {"family": "Andonian", "given": "Alex"},
       {"family": "Belinkov", "given": "Yonatan"}
     ],
-    "title": "Locating and Editing Factual Associations in GPT",
-    "container-title": "Advances in Neural Information Processing Systems",
-    "year": 2022
+    "container-title": "Neural Information Processing Systems",
+    "issued": {"date-parts": [[2022]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:255825985"
   },
   {
-    "id": "KroegerLeyKrishnaAgarwalLakkaraju2024",
-    "type": "manuscript",
+    "id": "Kroeger2023InContextEH",
+    "type": "paper-conference",
+    "title": "In-Context Explainers: Harnessing LLMs for Explaining Black Box Models",
     "author": [
       {"family": "Kroeger", "given": "Nicholas"},
       {"family": "Ley", "given": "Dan"},
@@ -842,66 +799,375 @@
       {"family": "Agarwal", "given": "Chirag"},
       {"family": "Lakkaraju", "given": "Himabindu"}
     ],
-    "title": "In-Context Explainers: Harnessing LLMs for Explaining Black Box Models",
-    "year": 2024,
-    "archive": "arXiv",
-    "eprint": "2310.05797"
+    "issued": {"date-parts": [[2023]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:263829193"
   },
   {
-    "id": "BordtRaidlLuxburg2024",
-    "type": "manuscript",
+    "id": "Bordt2024RethinkingEM",
+    "type": "paper-conference",
+    "title": "Rethinking Explainable Machine Learning as Applied Statistics",
     "author": [
       {"family": "Bordt", "given": "Sebastian"},
       {"family": "Raidl", "given": "Eric"},
       {"family": "von Luxburg", "given": "Ulrike"}
     ],
-    "title": "Rethinking Explainable Machine Learning as Applied Statistics",
-    "year": 2024,
-    "archive": "arXiv",
-    "eprint": "2402.02870"
+    "issued": {"date-parts": [[2024]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:267412927"
   },
   {
-    "id": "doshi2017towards",
-    "type": "manuscript",
+    "id": "DoshiVelez2017TowardsAR",
+    "type": "article-journal",
+    "title": "Towards A Rigorous Science of Interpretable Machine Learning",
     "author": [
       {"family": "Doshi-Velez", "given": "Finale"},
       {"family": "Kim", "given": "Been"}
     ],
-    "title": "Towards a Rigorous Science of Interpretable Machine Learning",
-    "year": 2017,
-    "archive": "arXiv",
-    "eprint": "1702.08608"
+    "container-title": "arXiv: Machine Learning",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:11319376"
   },
   {
-    "id": "locatello2019challenging",
+    "id": "Locatello2018ChallengingCA",
     "type": "paper-conference",
+    "title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations",
     "author": [
       {"family": "Locatello", "given": "Francesco"},
       {"family": "Bauer", "given": "Stefan"},
       {"family": "Lucic", "given": "Mario"},
       {"family": "Gelly", "given": "Sylvain"},
-      {"family": "Schölkopf", "given": "Bernhard"},
+      {"family": "Scholkopf", "given": "Bernhard"},
       {"family": "Bachem", "given": "Olivier"}
     ],
-    "title": "Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations",
     "container-title": "International Conference on Machine Learning",
-    "year": 2019,
-    "pages": "4114-4124"
+    "issued": {"date-parts": [[2018]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:54089884"
   },
   {
-    "id": "dai2022knowledge",
-    "type": "paper-conference",
+    "id": "Dai2021KnowledgeNI",
+    "type": "article-journal",
+    "title": "Knowledge Neurons in Pretrained Transformers",
     "author": [
       {"family": "Dai", "given": "Damai"},
       {"family": "Dong", "given": "Li"},
-      {"family": "Sun", "given": "Yutao"},
-      {"family": "Ma", "given": "Shuming"},
+      {"family": "Hao", "given": "Yaru"},
+      {"family": "Sui", "given": "Zhifang"},
       {"family": "Wei", "given": "Furu"}
     ],
-    "title": "Knowledge Neurons in Pretrained Transformers",
-    "container-title": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    "year": 2022,
-    "pages": "7687-7703"
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2021]]},
+    "volume": "abs/2104.08696",
+    "URL": "https://api.semanticscholar.org/CorpusID:233296761"
+  },
+  {
+    "id": "Hastie1993VaryingCoefficientM",
+    "type": "article-journal",
+    "title": "Varying‐Coefficient Models",
+    "author": [
+      {"family": "Hastie", "given": "Trevor J."},
+      {"family": "Tibshirani", "given": "Robert"}
+    ],
+    "container-title": "Journal of the Royal Statistical Society. Series B (Methodological)",
+    "issued": {"date-parts": [[1993]]},
+    "volume": "55",
+    "page": "757-779",
+    "URL": "https://api.semanticscholar.org/CorpusID:125170071"
+  },
+  {
+    "id": "Koh2020WILDSAB",
+    "type": "paper-conference",
+    "title": "WILDS: A Benchmark of in-the-Wild Distribution Shifts",
+    "author": [
+      {"family": "Koh", "given": "Pang Wei"},
+      {"family": "Sagawa", "given": "Shiori"},
+      {"family": "Marklund", "given": "Henrik"},
+      {"family": "Xie", "given": "Sang Michael"},
+      {"family": "Zhang", "given": "Marvin"},
+      {"family": "Balsubramani", "given": "Akshay"},
+      {"family": "Hu", "given": "Weihua"},
+      {"family": "Yasunaga", "given": "Michihiro"},
+      {"family": "Phillips", "given": "Richard Lanas"},
+      {"family": "Gao", "given": "Irena"},
+      {"family": "Lee", "given": "Tony"},
+      {"family": "David", "given": "Etiene"},
+      {"family": "Stavness", "given": "Ian"},
+      {"family": "Guo", "given": "Wei"},
+      {"family": "Earnshaw", "given": "Berton A."},
+      {"family": "Haque", "given": "Imran S."},
+      {"family": "Beery", "given": "Sara Meghan"},
+      {"family": "Leskovec", "given": "Jure"},
+      {"family": "Kundaje", "given": "Anshul"},
+      {"family": "Pierson", "given": "Emma"},
+      {"family": "Levine", "given": "Sergey"},
+      {"family": "Finn", "given": "Chelsea"},
+      {"family": "Liang", "given": "Percy"}
+    ],
+    "container-title": "International Conference on Machine Learning",
+    "issued": {"date-parts": [[2020]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:229156320"
+  },
+  {
+    "id": "Lepski1997OptimalPA",
+    "type": "article-journal",
+    "title": "Optimal pointwise adaptive methods in nonparametric estimation",
+    "author": [
+      {"family": "Lepski", "given": "Oleg V."},
+      {"family": "Spokoiny", "given": "Vladimir G."}
+    ],
+    "container-title": "Annals of Statistics",
+    "issued": {"date-parts": [[1997]]},
+    "volume": "25",
+    "page": "2512-2546",
+    "URL": "https://api.semanticscholar.org/CorpusID:2635430"
+  },
+  {
+    "id": "Littlestone1989TheWM",
+    "type": "article-journal",
+    "title": "The weighted majority algorithm",
+    "author": [
+      {"family": "Littlestone", "given": "Nick"},
+      {"family": "Warmuth", "given": "Manfred K."}
+    ],
+    "container-title": "30th Annual Symposium on Foundations of Computer Science",
+    "issued": {"date-parts": [[1989]]},
+    "page": "256-261",
+    "URL": "https://api.semanticscholar.org/CorpusID:12843330"
+  },
+  {
+    "id": "Hsu2018UnsupervisedLV",
+    "type": "article-journal",
+    "title": "Unsupervised Learning via Meta-Learning",
+    "author": [
+      {"family": "Hsu", "given": "Kyle"},
+      {"family": "Levine", "given": "Sergey"},
+      {"family": "Finn", "given": "Chelsea"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2018]]},
+    "volume": "abs/1810.02334",
+    "URL": "https://api.semanticscholar.org/CorpusID:52922125"
+  },
+  {
+    "id": "Geirhos2020ShortcutLI",
+    "type": "article-journal",
+    "title": "Shortcut learning in deep neural networks",
+    "author": [
+      {"family": "Geirhos", "given": "Robert"},
+      {"family": "Jacobsen", "given": "Jörn-Henrik"},
+      {"family": "Michaelis", "given": "Claudio"},
+      {"family": "Zemel", "given": "Richard S."},
+      {"family": "Brendel", "given": "Wieland"},
+      {"family": "Bethge", "given": "Matthias"},
+      {"family": "Wichmann", "given": "Felix"}
+    ],
+    "container-title": "Nature Machine Intelligence",
+    "issued": {"date-parts": [[2020]]},
+    "volume": "2",
+    "page": "665-673",
+    "URL": "https://api.semanticscholar.org/CorpusID:215786368"
+  },
+  {
+    "id": "Sagawa2019DistributionallyRN",
+    "type": "article-journal",
+    "title": "Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization",
+    "author": [
+      {"family": "Sagawa", "given": "Shiori"},
+      {"family": "Koh", "given": "Pang Wei"},
+      {"family": "Hashimoto", "given": "Tatsunori B."},
+      {"family": "Liang", "given": "Percy"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2019]]},
+    "volume": "abs/1911.08731",
+    "URL": "https://api.semanticscholar.org/CorpusID:208176471"
+  },
+  {
+    "id": "Lakkaraju2017TheSL",
+    "type": "paper-conference",
+    "title": "The Selective Labels Problem: Evaluating Algorithmic Predictions in the Presence of Unobservables",
+    "author": [
+      {"family": "Lakkaraju", "given": "Himabindu"},
+      {"family": "Kleinberg", "given": "Jon M."},
+      {"family": "Leskovec", "given": "Jure"},
+      {"family": "Ludwig", "given": "Jens"},
+      {"family": "Mullainathan", "given": "Sendhil"}
+    ],
+    "container-title": "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+    "issued": {"date-parts": [[2017]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:2178920"
+  },
+  {
+    "id": "Jacobs1991AdaptiveMO",
+    "type": "article-journal",
+    "title": "Adaptive Mixtures of Local Experts",
+    "author": [
+      {"family": "Jacobs", "given": "Robert A."},
+      {"family": "Jordan", "given": "Michael I."},
+      {"family": "Nowlan", "given": "Steven J."},
+      {"family": "Hinton", "given": "Geoffrey E."}
+    ],
+    "container-title": "Neural Computation",
+    "issued": {"date-parts": [[1991]]},
+    "volume": "3",
+    "page": "79-87",
+    "URL": "https://api.semanticscholar.org/CorpusID:572361"
+  },
+  {
+    "id": "Vapnik1999AnOO",
+    "type": "article-journal",
+    "title": "An overview of statistical learning theory",
+    "author": [
+      {"family": "Vapnik", "given": "Vladimir Naumovich"}
+    ],
+    "container-title": "IEEE Transactions on Neural Networks",
+    "issued": {"date-parts": [[1999]]},
+    "volume": "10 5",
+    "page": "988-999",
+    "URL": "https://api.semanticscholar.org/CorpusID:6294728"
+  },
+  {
+    "id": "Cai2024ContinuousTD",
+    "type": "article-journal",
+    "title": "Continuous Temporal Domain Generalization",
+    "author": [
+      {"family": "Cai", "given": "Zekun"},
+      {"family": "Bai", "given": "Guangji"},
+      {"family": "Jiang", "given": "Renhe"},
+      {"family": "Song", "given": "Xuan"},
+      {"family": "Zhao", "given": "Liang"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2405.16075",
+    "URL": "https://api.semanticscholar.org/CorpusID:270063125"
+  },
+  {
+    "id": "Chen2024LFMEAS",
+    "type": "article-journal",
+    "title": "LFME: A Simple Framework for Learning from Multiple Experts in Domain Generalization",
+    "author": [
+      {"family": "Chen", "given": "Liang"},
+      {"family": "Zhang", "given": "Yong"},
+      {"family": "Song", "given": "Yibing"},
+      {"family": "Shen", "given": "Zhiqiang"},
+      {"family": "Liu", "given": "Lingqiao"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2410.17020",
+    "URL": "https://api.semanticscholar.org/CorpusID:273507138"
+  },
+  {
+    "id": "Ostapenko2024TowardsML",
+    "type": "article-journal",
+    "title": "Towards Modular LLMs by Building and Reusing a Library of LoRAs",
+    "author": [
+      {"family": "Ostapenko", "given": "Oleksiy"},
+      {"family": "Su", "given": "Zhan"},
+      {"family": "Ponti", "given": "E."},
+      {"family": "Charlin", "given": "Laurent"},
+      {"family": "Le Roux", "given": "Nicolas"},
+      {"family": "Pereira", "given": "Matheus"},
+      {"family": "Caccia", "given": "Lucas"},
+      {"family": "Sordoni", "given": "Alessandro"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2405.11157",
+    "URL": "https://api.semanticscholar.org/CorpusID:269922018"
+  },
+  {
+    "id": "Wu2024MixtureOL",
+    "type": "article-journal",
+    "title": "Mixture of LoRA Experts",
+    "author": [
+      {"family": "Wu", "given": "Xun"},
+      {"family": "Huang", "given": "Shaohan"},
+      {"family": "Wei", "given": "Furu"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2404.13628",
+    "URL": "https://api.semanticscholar.org/CorpusID:269293160"
+  },
+  {
+    "id": "Lo2024ACL",
+    "type": "article-journal",
+    "title": "A Closer Look into Mixture-of-Experts in Large Language Models",
+    "author": [
+      {"family": "Lo", "given": "Ka Man"},
+      {"family": "Huang", "given": "Zeyu"},
+      {"family": "Qiu", "given": "Zihan"},
+      {"family": "Wang", "given": "Zili"},
+      {"family": "Fu", "given": "Jie"}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2406.18219",
+    "URL": "https://api.semanticscholar.org/CorpusID:270737825"
+  },
+  {
+    "id": "Kim2023TestTimeAI",
+    "type": "paper-conference",
+    "title": "Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line",
+    "author": [
+      {"family": "Kim", "given": "Eungyeup"},
+      {"family": "Sun", "given": "Mingjie"},
+      {"family": "Baek", "given": "Christina"},
+      {"family": "Raghunathan", "given": "Aditi"},
+      {"family": "Kolter", "given": "J. Zico"}
+    ],
+    "container-title": "Neural Information Processing Systems",
+    "issued": {"date-parts": [[2023]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:263830662"
+  },
+  {
+    "id": "Ambekar2024SelectiveTA",
+    "type": "article-journal",
+    "title": "Selective Test-Time Adaptation for Unsupervised Anomaly Detection using Neural Implicit Representations",
+    "author": [
+      {"family": "Ambekar", "given": "Sameer"},
+      {"family": "Schnabel", "given": "Julia A."},
+      {"family": "Bercea", "given": "Cosmin I."}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2410.03306",
+    "URL": "https://api.semanticscholar.org/CorpusID:273163004"
+  },
+  {
+    "id": "Huang2024HarderTN",
+    "type": "paper-conference",
+    "title": "Harder Task Needs More Experts: Dynamic Routing in MoE Models",
+    "author": [
+      {"family": "Huang", "given": "Quzhe"},
+      {"family": "An", "given": "Zhenwei"},
+      {"family": "Nan", "given": "Zhuang"},
+      {"family": "Tao", "given": "Mingxu"},
+      {"family": "Zhang", "given": "Chen"},
+      {"family": "Jin", "given": "Yang"},
+      {"family": "Xu", "given": "Kun"},
+      {"family": "Chen", "given": "Liwei"},
+      {"family": "Huang", "given": "Songfang"},
+      {"family": "Feng", "given": "Yansong"}
+    ],
+    "container-title": "Annual Meeting of the Association for Computational Linguistics",
+    "issued": {"date-parts": [[2024]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:271895204"
+  },
+  {
+    "id": "Arora2024BayesianSL",
+    "type": "article-journal",
+    "title": "Bayesian scaling laws for in-context learning",
+    "author": [
+      {"family": "Arora", "given": "Aryaman"},
+      {"family": "Jurafsky", "given": "Daniel"},
+      {"family": "Potts", "given": "Christopher"},
+      {"family": "Goodman", "given": "Noah D."}
+    ],
+    "container-title": "ArXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2410.16531",
+    "URL": "https://api.semanticscholar.org/CorpusID:273507537"
   }
 ]
 
