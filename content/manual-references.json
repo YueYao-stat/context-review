@@ -390,20 +390,7 @@
     "eprint": "1909.01066"
   },
   {
-    "id": "tibshirani1996regression",
-    "type": "article-journal",
-    "author": [
-      {"family": "Tibshirani", "given": "Robert"}
-    ],
-    "title": "Regression shrinkage and selection via the lasso",
-    "container-title": "Journal of the Royal Statistical Society: Series B (Methodological)",
-    "year": 1996,
-    "volume": "58",
-    "issue": "1",
-    "page": "267--288"
-  },
-  {
-    "id": "yuan2006model",
+    "id": "Yuan2006ModelSA",
     "type": "article-journal",
     "author": [
       {"family": "Yuan", "given": "Ming"},
@@ -412,72 +399,74 @@
     "title": "Model selection and estimation in regression with grouped variables",
     "container-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)",
     "year": 2006,
-    "volume": "68",
-    "issue": "1",
-    "page": "49--67"
+    "volume": "68"
   },
   {
-    "id": "boyd2011distributed",
+    "id": "Boyd2011DistributedOA",
     "type": "article-journal",
     "author": [
-      {"family": "Boyd", "given": "Stephen"},
+      {"family": "Boyd", "given": "Stephen P."},
       {"family": "Parikh", "given": "Neal"},
       {"family": "Chu", "given": "Eric"},
-      {"family": "Peleato", "given": "Brendan"},
+      {"family": "Peleato", "given": "Borja"},
       {"family": "Eckstein", "given": "Jonathan"}
     ],
-    "title": "Distributed optimization and statistical learning via the alternating direction method of multipliers",
-    "container-title": "Foundations and Trends in Machine Learning",
+    "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers",
+    "container-title": "Found. Trends Mach. Learn.",
     "year": 2011,
     "volume": "3",
-    "issue": "1",
-    "page": "1--122"
+    "page": "1-122"
   },
   {
-    "id": "bottou2018optimization",
-    "type": "article-journal",
+    "id": "Bottou2016OptimizationMF",
+    "type": "manuscript",
     "author": [
       {"family": "Bottou", "given": "Léon"},
       {"family": "Curtis", "given": "Frank E."},
       {"family": "Nocedal", "given": "Jorge"}
     ],
-    "title": "Optimization methods for large-scale machine learning",
-    "container-title": "SIAM Review",
-    "year": 2018,
-    "volume": "60",
-    "issue": "2",
-    "page": "223--311"
+    "title": "Optimization Methods for Large-Scale Machine Learning",
+    "year": 2016,
+    "archive": "arXiv",
+    "eprint": "1606.04838"
   },
   {
-    "id": "kingma2014adam",
+    "id": "Kingma2014AdamAM",
     "type": "manuscript",
     "author": [
       {"family": "Kingma", "given": "Diederik P."},
       {"family": "Ba", "given": "Jimmy"}
     ],
-    "title": "Adam: A method for stochastic optimization",
+    "title": "Adam: A Method for Stochastic Optimization",
     "year": 2014,
     "archive": "arXiv",
     "eprint": "1412.6980"
   },
   {
-    "id": "wang2018contextual",
-    "type": "paper-conference",
+    "id": "Balseiro2018ContextualBW",
+    "type": "manuscript",
     "author": [
-      {"family": "Balseiro", "given": "Santiago"},
+      {"family": "Balseiro", "given": "Santiago R."},
       {"family": "Golrezaei", "given": "Negin"},
       {"family": "Mahdian", "given": "Mohammad"},
-      {"family": "Mirrokni", "given": "Vahab"},
+      {"family": "Mirrokni", "given": "Vahab S."},
       {"family": "Schneider", "given": "Jon"}
     ],
-    "title": "Contextual Bandits with Cross-Learning",
-    "container-title": "Advances in Neural Information Processing Systems",
-    "year": 2019,
-    "volume": "32",
-    "page": "",
-    "publisher": "Curran Associates, Inc."
+    "title": "Contextual Bandits with Cross-learning",
+    "year": 2018,
+    "archive": "arXiv",
+    "eprint": "1809.09582"
   },
-
+  {
+  "id": "Gelman2006DataAU",
+  "type": "paper-conference",
+  "author": [
+    {"family": "Gelman", "given": "Andrew"},
+    {"family": "Su", "given": "Yu-Sung"}
+  ],
+  "title": "Data Analysis Using Regression and Multilevel/Hierarchical Models",
+  "year": 2006
+  },
   {
     "id": "ang2014asset",
     "type": "article-journal",
