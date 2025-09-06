@@ -493,6 +493,21 @@
     "URL": "https://api.semanticscholar.org/CorpusID:266933390"
   },
   {
+  "id": "Lu2008PenalizedSE",
+  "type": "article-journal",
+  "title": "Penalized Spline Estimation for Varying-Coefficient Models",
+  "author": [
+    {"family": "Lu", "given": "Yiqiang"},
+    {"family": "Zhang", "given": "Riquan"},
+    {"family": "Zhu", "given": "Liping"}
+  ],
+  "container-title": "Communications in Statistics - Theory and Methods",
+  "issued": {"date-parts": [[2008]]},
+  "volume": "37",
+  "page": "2249-2261",
+  "URL": "https://api.semanticscholar.org/CorpusID:121809483"
+  },
+  {
     "id": "ang2014asset",
     "type": "article-journal",
     "author": [
