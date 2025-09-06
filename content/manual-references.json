@@ -468,6 +468,31 @@
   "year": 2006
   },
   {
+    "id": "Zhou2019TreeBV",
+    "type": "article-journal",
+    "title": "Tree Boosted Varying Coefficient Models",
+    "author": [
+      {"family": "Zhou", "given": "Yichen"},
+      {"family": "Hooker", "given": "Giles"}
+    ],
+    "container-title": "arXiv: Methodology",
+    "issued": {"date-parts": [[2019]]},
+    "URL": "https://api.semanticscholar.org/CorpusID:91184310"
+  },
+  {
+    "id": "Zakrisson2024ATV",
+    "type": "article-journal",
+    "title": "A tree-based varying coefficient model",
+    "author": [
+      {"family": "Zakrisson", "given": "Henning"},
+      {"family": "Lindholm", "given": "Mathias"}
+    ],
+    "container-title": "arXiv",
+    "issued": {"date-parts": [[2024]]},
+    "volume": "abs/2401.05982",
+    "URL": "https://api.semanticscholar.org/CorpusID:266933390"
+  },
+  {
     "id": "ang2014asset",
     "type": "article-journal",
     "author": [
