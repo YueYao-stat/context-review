@@ -1214,6 +1214,15 @@
     "issued": {"date-parts": [[2024]]},
     "volume": "abs/2410.16531",
     "URL": "https://api.semanticscholar.org/CorpusID:273507537"
-  }
+  },
+  {
+  "id": "lauritzen1996graphical",
+  "type": "book",
+  "title": "Graphical models",
+  "author": "Lauritzen, Steffen L",
+  "volume": 17,
+  "year": 1996,
+  "publisher": "Clarendon Press"
+  } 
 ]
 
