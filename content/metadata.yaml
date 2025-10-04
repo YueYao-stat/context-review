@@ -66,3 +66,15 @@ authors:
       - Department of Computer Science, University of Wisconsin - Madison
     funders:
         -
+  - github: w-jiaqi
+    name: Jiaqi Wang
+    initials: JW
+    orcid: 0009-0003-8531-9490
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: jiaqiw18@uw.edu
+    affiliations:
+      - Paul G. Allen School of Computer Science & Engineering, University of Washington
+    funders:
+        -
