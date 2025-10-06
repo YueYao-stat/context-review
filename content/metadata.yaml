@@ -54,27 +54,14 @@ authors:
       - Department of Computer Science, Yale University
     funders:
         -
-  - github: rikhilr
-    name: Rikhil Rao
-    initials: RR
-    orcid: 0009-0003-5221-1125
+  - github: Clouddelta
+    name: Jingyun Jia
+    initials: JJ
+    orcid: 0009-0006-3241-3485
     twitter:
     mastodon:
     mastodon-server:
-    email: rrao27@wisc.edu
+    email: jjia39@wisc.edu
     affiliations:
-      - Department of Computer Science, University of Wisconsin - Madison
+      - Department of Statistics, University of Wisconsin-Madison
     funders:
-        -
-  - github: w-jiaqi
-    name: Jiaqi Wang
-    initials: JW
-    orcid: 0009-0003-8531-9490
-    twitter:
-    mastodon:
-    mastodon-server:
-    email: jiaqiw18@uw.edu
-    affiliations:
-      - Paul G. Allen School of Computer Science & Engineering, University of Washington
-    funders:
-        -
