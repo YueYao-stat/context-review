@@ -90,3 +90,16 @@ authors:
       - Department of Statistics, University of Wisconsin-Madison
     funders:
       -
+  - github: Samuel-WM
+    name: Samuel Wales-McGrath
+    initials: SWM
+    orcid: 0009-0008-5405-2646
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: wales-mcgrath.4@osu.edu
+    affiliations:
+      - Department of Computer Science and Engineering, The Ohio State University
+    funders:
+      -
+
