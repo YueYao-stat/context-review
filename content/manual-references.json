@@ -1,5 +1,35 @@
 [
   {
+    "id": "higgins2017betavae",
+    "type": "paper-conference",
+    "title": "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
+    "author": [
+      { "family": "Higgins", "given": "Irina" },
+      { "family": "Matthey", "given": "Loic" },
+      { "family": "Pal", "given": "Arka" },
+      { "family": "Burgess", "given": "Christopher" },
+      { "family": "Glorot", "given": "Xavier" },
+      { "family": "Botvinick", "given": "Matthew" },
+      { "family": "Mohamed", "given": "Shakir" },
+      { "family": "Lerchner", "given": "Alexander" }
+    ],
+    "container-title": "International Conference on Learning Representations",
+    "issued": { "date-parts": [[2017]] },
+    "URL": "https://openreview.net/forum?id=Sy2fzU9gl"
+  },
+  {
+    "id": "eastwood2018a",
+    "type": "paper-conference",
+    "title": "A Framework for the Quantitative Evaluation of Disentangled Representations",
+    "author": [
+      { "family": "Eastwood", "given": "Cian" },
+      { "family": "Williams", "given": "Christopher K. I." }
+    ],
+    "container-title": "International Conference on Learning Representations",
+    "issued": { "date-parts": [[2018]] },
+    "URL": "https://openreview.net/forum?id=By-7dz-AZ"
+  },
+  {
     "id": "Botzer2025PublicationTO",
     "type": "article-journal",
     "title": "Publication Trends on the Varying Coefficients Model: Estimating the Actual (Under)Utilization of a Highly Acclaimed Method for Studying Statistical Interactions",
