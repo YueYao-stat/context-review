@@ -30,6 +30,25 @@
     "URL": "https://openreview.net/forum?id=By-7dz-AZ"
   },
   {
+  "id": "vapnik1991principles",
+  "type": "paper-conference",
+  "author": [
+    { "family": "Vapnik", "given": "V." }
+  ],
+  "title": "Principles of risk minimization for learning theory",
+  "issued": { "date-parts": [[1991]] },
+  "publisher": "Morgan Kaufmann Publishers Inc.",
+  "publisher-place": "San Francisco, CA, USA",
+  "collection-title": "Proceedings of the 5th International Conference on Neural Information Processing Systems",
+  "event-place": "Denver, Colorado",
+  "page": "831–838",
+  "number-of-pages": "8",
+  "ISBN": "1558602224",
+  "URL": "https://dl.acm.org/doi/10.5555/2986916.2987018",
+  "abstract": "Learning is posed as a problem of function estimation, for which two principles of solution are considered: empirical risk minimization and structural risk minimization. These two principles are applied to two different statements of the function estimation problem: global and local. Systematic improvements in prediction power are illustrated in application to zip-code recognition.",
+  "container-title": "Advances in Neural Information Processing Systems 5 (NIPS'91)"
+  },
+  {
     "id": "Botzer2025PublicationTO",
     "type": "article-journal",
     "title": "Publication Trends on the Varying Coefficients Model: Estimating the Actual (Under)Utilization of a Highly Acclaimed Method for Studying Statistical Interactions",
