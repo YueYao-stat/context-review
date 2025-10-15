@@ -90,6 +90,18 @@ authors:
       - Department of Computer Science and Engineering, The Ohio State University
     funders:
       -
+  - github: LZYEIL
+    name: Zhiyuan Li
+    initials: ZL
+    orcid: 0009-0006-6016-7381
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: zli2562@wisc.edu
+    affiliations:
+      - Department of Computer Sciences, University of Wisconsin-Madison
+    funders:
+      -
   - github: blengerich
     name: Ben Lengerich
     initials: BL
