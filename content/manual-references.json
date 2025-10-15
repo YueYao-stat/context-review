@@ -1556,6 +1556,60 @@
     "container-title": "Advances in Neural Information Processing Systems 31 (NeurIPS 2018)",
     "issued": {"date-parts": [[2018]]},
     "URL": "https://proceedings.neurips.cc/paper/2018/hash/734e6bfcd358e25ac1db0a4241b95651-Abstract.html"
-  }
+  },
+  {
+  "id": "Baena2006EarlyDrift",
+  "type": "paper-conference",
+  "title": "Early Drift Detection Method",
+  "author": [
+    {"family": "Baena-García", "given": "Manuel"},
+    {"family": "del Campo-Ávila", "given": "José"},
+    {"family": "Fidalgo", "given": "Raul"},
+    {"family": "Bifet", "given": "Albert"},
+    {"family": "Gavalda", "given": "Ricard"},
+    {"family": "Morales-Bueno", "given": "Rafael"}
+  ],
+  "container-title": "Fourth International Workshop on Knowledge Discovery from Data Streams",
+  "volume": "6",
+  "page": "77–86",
+  "issued": {"date-parts": [[2006]]}
+},
+{
+  "id": "Sutton1998RLIntroduction",
+  "type": "book",
+  "title": "Reinforcement Learning: An Introduction",
+  "author": [
+    {"family": "Sutton", "given": "Richard S."},
+    {"family": "Barto", "given": "Andrew G."}
+  ],
+  "publisher": "MIT Press",
+  "publisher-place": "Cambridge, MA",
+  "ISBN": "978-0-262-19398-6",
+  "issued": {"date-parts": [[1998]]}
+},
+{
+  "id": "Bellman1957Markovian",
+  "type": "article-journal",
+  "title": "A Markovian Decision Process",
+  "author": [
+    {"family": "Bellman", "given": "Richard"}
+  ],
+  "container-title": "Journal of Mathematics and Mechanics",
+  "page": "679–684",
+  "publisher": "JSTOR",
+  "issued": {"date-parts": [[1957]]}
+},
+{
+  "id": "Watkins1989Learning",
+  "type": "thesis",
+  "title": "Learning from Delayed Rewards",
+  "author": [
+    {"family": "Watkins", "given": "Christopher John Cornish Hellaby"}
+  ],
+  "publisher": "King's College, University of Cambridge",
+  "genre": "PhD thesis",
+  "issued": {"date-parts": [[1989]]}
+}
+
 ]
 
