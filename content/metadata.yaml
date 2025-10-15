@@ -7,18 +7,17 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  - github: blengerich
-    name: Ben Lengerich
-    initials: BL
-    orcid: 0000-0001-8690-9554
-    twitter: ben_lengerich
+  - github: YueYao-stat
+    name: Yue Yao
+    initials: YY
+    orcid: 0009-0000-8195-3943
     mastodon:
     mastodon-server:
-    email: lengerich@wisc.edu
+    email: yao255@wisc.edu
     affiliations:
       - Department of Statistics, University of Wisconsin-Madison
     funders:
-        -
+      -
   - github: cnellington
     name: Caleb N. Ellington
     initials: CE
@@ -31,17 +30,18 @@ authors:
       - Computational Biology Department, Carnegie Mellon University
     funders:
         -
-  - github: YueYao-stat
-    name: Yue Yao
-    initials: YY
-    orcid: 0009-0000-8195-3943
+  - github: Clouddelta
+    name: Jingyun Jia
+    initials: JJ
+    orcid: 0009-0006-3241-3485
+    twitter:
     mastodon:
     mastodon-server:
-    email: yao255@wisc.edu
+    email: jjia39@wisc.edu
     affiliations:
       - Department of Statistics, University of Wisconsin-Madison
     funders:
-        -
+      -
   - github: NoakLiu
     name: Dong Liu
     initials: DL
@@ -52,5 +52,53 @@ authors:
     email: dong.liu.dl2367@yale.edu
     affiliations:
       - Department of Computer Science, Yale University
+    funders:
+        -
+  - github: rikhilr
+    name: Rikhil Rao
+    initials: RR
+    orcid: 0009-0003-5221-1125
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: rrao27@wisc.edu
+    affiliations:
+      - Department of Computer Science, University of Wisconsin - Madison
+    funders:
+        -
+  - github: w-jiaqi
+    name: Jiaqi Wang
+    initials: JW
+    orcid: 0009-0003-8531-9490
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: jiaqiw18@uw.edu
+    affiliations:
+      - Paul G. Allen School of Computer Science & Engineering, University of Washington
+    funders:
+        -
+  - github: Samuel-WM
+    name: Samuel Wales-McGrath
+    initials: SWM
+    orcid: 0009-0008-5405-2646
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: wales-mcgrath.4@osu.edu
+    affiliations:
+      - Department of Computer Science and Engineering, The Ohio State University
+    funders:
+      -
+  - github: blengerich
+    name: Ben Lengerich
+    initials: BL
+    orcid: 0000-0001-8690-9554
+    twitter: ben_lengerich
+    mastodon:
+    mastodon-server:
+    email: lengerich@wisc.edu
+    affiliations:
+      - Department of Statistics, University of Wisconsin-Madison
     funders:
         -
