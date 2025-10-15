@@ -42,6 +42,18 @@ authors:
       - Department of Statistics, University of Wisconsin-Madison
     funders:
       -
+  - github: BaihengChen
+    name: Baiheng Chen
+    initials: BC
+    orcid: 0000-0001-8554-3984
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: bchen342@wisc.edu
+    affiliations:
+      - Department of Statistics, University of Wisconsin-Madison
+    funders:
+      -
   - github: NoakLiu
     name: Dong Liu
     initials: DL
@@ -110,18 +122,6 @@ authors:
       - Department of Computer Sciences, University of Wisconsin-Madison
     funders:
       -
-  - github: BaihengChen
-    name: Baiheng Chen
-    initials: BC
-    orcid: 0000-0001-8554-3984
-    twitter:
-    mastodon:
-    mastodon-server:
-    email: bchen342@wisc.edu
-    affiliations:
-      - Department of Statistics, University of Wisconsin-Madison
-    funders:
-        -
   - github: blengerich
     name: Ben Lengerich
     initials: BL
