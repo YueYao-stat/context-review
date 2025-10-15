@@ -90,6 +90,14 @@ authors:
       - Department of Computer Science and Engineering, The Ohio State University
     funders:
       -
+  - github: Jessego5
+    name: Yixin Yang
+    initials: YY
+    orcid: 0009-0008-1436-5584
+    twitter:
+    mastodon:
+    mastodon-server:
+    email: yyang784@wisc.edu
   - github: LZYEIL
     name: Zhiyuan Li
     initials: ZL
