@@ -110,6 +110,10 @@ authors:
     mastodon:
     mastodon-server:
     email: yyang784@wisc.edu
+    affiliations:
+      - Department of Computer Sciences, University of Wisconsin-Madison
+    funders:
+      -
   - github: LZYEIL
     name: Zhiyuan Li
     initials: ZL
