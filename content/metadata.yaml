@@ -102,6 +102,8 @@ authors:
     mastodon:
     mastodon-server:
     email: yyang784@wisc.edu
+    affiliations:
+      - Department of Computer Sciences, University of Wisconsin-Madison
     corresponding: false
   - github: LZYEIL
     name: Zhiyuan Li
