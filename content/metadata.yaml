@@ -16,8 +16,7 @@ authors:
     email: yao255@wisc.edu
     affiliations:
       - Department of Statistics, University of Wisconsin-Madison
-    funders:
-      -
+    corresponding: false
   - github: cnellington
     name: Caleb N. Ellington
     initials: CE
@@ -28,8 +27,7 @@ authors:
     email: cellingt@cs.cmu.edu
     affiliations:
       - Computational Biology Department, Carnegie Mellon University
-    funders:
-        -
+    corresponding: false
   - github: Clouddelta
     name: Jingyun Jia
     initials: JJ
@@ -40,8 +38,7 @@ authors:
     email: jjia39@wisc.edu
     affiliations:
       - Department of Statistics, University of Wisconsin-Madison
-    funders:
-      -
+    corresponding: false
   - github: BaihengChen
     name: Baiheng Chen
     initials: BC
@@ -52,8 +49,7 @@ authors:
     email: bchen342@wisc.edu
     affiliations:
       - Department of Statistics, University of Wisconsin-Madison
-    funders:
-      -
+    corresponding: false
   - github: NoakLiu
     name: Dong Liu
     initials: DL
@@ -64,8 +60,7 @@ authors:
     email: dong.liu.dl2367@yale.edu
     affiliations:
       - Department of Computer Science, Yale University
-    funders:
-        -
+    corresponding: false
   - github: rikhilr
     name: Rikhil Rao
     initials: RR
@@ -76,8 +71,7 @@ authors:
     email: rrao27@wisc.edu
     affiliations:
       - Department of Computer Science, University of Wisconsin - Madison
-    funders:
-        -
+    corresponding: false
   - github: w-jiaqi
     name: Jiaqi Wang
     initials: JW
@@ -88,8 +82,7 @@ authors:
     email: jiaqiw18@uw.edu
     affiliations:
       - Paul G. Allen School of Computer Science & Engineering, University of Washington
-    funders:
-        -
+    corresponding: false
   - github: Samuel-WM
     name: Samuel Wales-McGrath
     initials: SWM
@@ -100,8 +93,7 @@ authors:
     email: wales-mcgrath.4@osu.edu
     affiliations:
       - Department of Computer Science and Engineering, The Ohio State University
-    funders:
-      -
+    corresponding: false
   - github: Jessego5
     name: Yixin Yang
     initials: YY
@@ -110,6 +102,7 @@ authors:
     mastodon:
     mastodon-server:
     email: yyang784@wisc.edu
+    corresponding: false
   - github: LZYEIL
     name: Zhiyuan Li
     initials: ZL
@@ -120,8 +113,7 @@ authors:
     email: zli2562@wisc.edu
     affiliations:
       - Department of Computer Sciences, University of Wisconsin-Madison
-    funders:
-      -
+    corresponding: false
   - github: blengerich
     name: Ben Lengerich
     initials: BL
@@ -132,5 +124,4 @@ authors:
     email: lengerich@wisc.edu
     affiliations:
       - Department of Statistics, University of Wisconsin-Madison
-    funders:
-        -
+    corresponding: true
